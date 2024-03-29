@@ -1,0 +1,18 @@
+@import '@/app/common.scss';
+
+.header{
+  background-color: $secondary;
+  padding: 15px 0 20px 0;
+  
+  .container{
+    max-width: 1520px;
+    margin: 0 auto;
+    padding: 0 10px;
+    
+    .containerContent{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+}

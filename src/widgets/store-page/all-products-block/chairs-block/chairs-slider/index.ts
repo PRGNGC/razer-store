@@ -1,0 +1,1 @@
+export { ChairsSlider } from './ui'

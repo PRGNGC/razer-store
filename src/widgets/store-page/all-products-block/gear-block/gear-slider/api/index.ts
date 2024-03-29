@@ -1,0 +1,1 @@
+export { getSeveralGear } from './requests'

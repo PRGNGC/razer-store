@@ -1,0 +1,29 @@
+@import '@/app/common.scss';
+
+.mapContainer{
+    margin-top: 20px;
+    overflow: hidden;
+    max-height: 450px;
+    border-radius: 20px;
+    .popupContainer{
+        display: flex;
+        background-color: $secondary;
+        .popupImg{
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            margin-right: 10px;
+        }
+        .popupText{
+            .popupTitle{
+                @include oswald-text(18, $primary, 15, bold);
+            }
+            .popupLocation{
+                @include manrope-text(13, $white, 400);
+            }
+        }
+    }
+}

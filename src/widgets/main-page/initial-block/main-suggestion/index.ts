@@ -1,0 +1,1 @@
+export { MainSuggestion } from './ui'

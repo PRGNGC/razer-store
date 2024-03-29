@@ -1,0 +1,45 @@
+@import '@/app/common.scss';
+
+.navigationBar{
+    flex-grow: 1;
+    max-width: 1040px;
+    
+    .menuItems{
+      display:flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    .menuItems > .menuItem > a{
+        margin: 0 10px;
+        @include oswald-text(18, $gray, 15, 400);
+
+        @media(max-width: 1024px){
+            @include oswald-text(14, $gray, 15, 400);
+            margin: 0 5px;
+        }
+    }
+    
+    .menuItems > li > a:hover{
+      color: $white;
+    }
+
+    @media(max-width: 768px){
+        display: none;
+    }
+  }
+
+// @media(max-width: 1024px){
+//   .navigationBar{
+//     .menuItems > .menuItem > a{
+//       @include oswald-text(14, $gray, 15, 400);
+//       margin: 0 5px;
+//     }
+//   }
+// }
+
+// @media(max-width: 768px){
+//   .navigationBar{
+//     display: none;
+//   }
+// }

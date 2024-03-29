@@ -1,0 +1,68 @@
+@import '@/app/common.scss';
+
+.watch{
+    padding: 20px 0;
+    max-width: 1920px;
+    margin: 0 auto;
+    height: 600px;
+    background-image: url(/images/watch-banner.png);
+    background-color: $secondary;
+    background-position: center;
+    background-repeat: no-repeat;
+    .container{
+        display: flex;
+        // justify-content: center;
+        align-items: end;
+        max-width: 1520px;
+        margin: 0 auto;
+        height: 100%;
+    }
+    .callToActionContent{
+        display: flex;
+        flex-direction: column;
+        // align-items: center;
+        // text-align: center;
+        // align-items: center;
+        row-gap: 20px;
+        max-width: 450px;
+        // flex-basis: 50%;
+        // width: fit-content;
+        .callToActionTitle{
+            @include oswald-text(44, $primary, 15, bold);
+        }
+        hr{
+            background-color: $primary;
+            width: 100%;
+            height: 1px;
+            border: none;
+            outline: none;
+        }
+        .callToActionText{
+            @include manrope-text(18, $white, 400);
+        }
+    }
+}
+
+@media(max-width: 1024px){
+        .callToAction{
+            padding: 45px 0;
+            .callToActionContent{
+                .callToActionTitle{
+                    @include oswald-text(36, $primary, 15, bold);
+                }
+            }
+        }
+}
+
+@media(max-width: 768px){
+        .callToAction{
+            .callToActionContent{
+                .callToActionTitle{
+                    @include oswald-text(28, $primary, 15, bold);
+                }
+                .callToActionText{
+                    @include oswald-text(20, $white, 15, bold);
+                }
+            }
+        }
+}

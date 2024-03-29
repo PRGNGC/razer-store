@@ -1,0 +1,1 @@
+export { IndividualProductNav } from './ui'

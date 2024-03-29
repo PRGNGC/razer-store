@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+// font-family: 'Oswald', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+// font-family: 'Manrope', sans-serif;
+
+$primary: #00ff00;
+$secondary: #141616;
+$white: #f7f7f7;
+$gray: #828282;
+$blue: #28aadc;
+$dark: #222222;
+$orange: #F2C94C;
+
+@mixin oswald-text($fz, $col, $ls, $fw){
+    font-family: 'Oswald', sans-serif;
+    font-weight: $fw;
+    font-size: $fz + px;
+    @if $fz > 36 {
+        line-height: 100%;
+    } @else {
+        line-height: 130%;
+    }
+    color: $col;
+    letter-spacing: calc(($ls / 100) * $fz) + px;
+}
+
+@mixin manrope-text($fz, $col, $fw){
+    font-family: 'Manrope', sans-serif;
+    font-weight: $fw;
+    font-size: $fz + px;
+    @if $fz > 12 {
+        line-height: 130%;
+    } @else {
+        line-height: 100%;
+    }
+    color: $col;
+    letter-spacing: calc((5 / 100) * $fz) + px;
+}
+
+@mixin green-button(){
+    background-color: $primary;
+    padding: 13px 38px;
+    border: 1px solid $primary;
+    border-radius: 50px;
+    @include oswald-text(15, $secondary, 15, bold);
+    white-space: nowrap;
+}
+@mixin transparent-button(){
+    background-color: transparent;
+    padding: 13px 38px;
+    border: 1px solid $white;
+    border-radius: 50px;
+    @include oswald-text(15, $white, 15, bold);
+    white-space: nowrap;
+}
+@mixin white-button(){
+    background-color: $white;
+    padding: 13px 38px;
+    border: 1px solid $white;
+    border-radius: 50px;
+    @include oswald-text(15, $secondary, 15, bold);
+    white-space: nowrap;
+}
+@mixin black-button(){
+    background-color: $secondary;
+    padding: 13px 38px;
+    border: 1px solid $secondary;
+    border-radius: 50px;
+    @include oswald-text(15, $white, 15, bold);
+    white-space: nowrap;
+}

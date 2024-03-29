@@ -1,0 +1,1 @@
+export { CategoriesTitle } from './ui'

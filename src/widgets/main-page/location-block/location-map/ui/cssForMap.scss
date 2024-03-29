@@ -1,0 +1,46 @@
+@import '@/app/common.scss';
+
+.leaflet-container {
+    width: 100%;
+    height: 450px;
+    background-color: $secondary !important;
+    .leaflet-control-container{
+        .leaflet-left{
+            top: calc(100% - 35px);
+            left: calc(100% - 80px);
+            margin: 0;
+            .leaflet-bar{
+                margin: 0;
+                border: none;
+                display: flex;
+                column-gap: 15px;
+                font-size: 30px;
+                a{
+                    font-size: 14px;
+                    color: $white;
+                    background-color: transparent;
+                    border: none;
+                    span{
+                        border: 1px solid $white;
+                        border-radius: 50%;
+                        padding: 2px 4px;
+                    }
+                }
+            }
+        }
+        .leaflet-bottom{
+            display: none;
+        }
+        .leaflet-top{
+            margin: 0;
+        }
+    }
+}
+
+
+
+.leaflet-popup{
+    .leaflet-popup-content-wrapper, .leaflet-popup-tip{
+        background: $secondary;
+    }
+}

@@ -1,0 +1,49 @@
+@import '@/app/common.scss';
+
+.slick-slider{
+  margin: 0 20px;
+}
+
+.slick-slider .slick-next:before, .slick-prev:before {
+  content: "" !important;
+}
+
+.slick-slider .slick-dots {
+    bottom: -45px;
+}
+
+.slick-slider .slick-dots li {
+  margin: 0 10px;
+}
+
+.slick-slider .slick-dots .sliderToggler {
+  width: 15px;
+  height: 15px;
+  background-color: transparent;
+  border: 1px solid $gray;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.slick-slider .slick-dots .slick-active .sliderToggler {
+  width: 15px;
+  height: 15px;
+  background-color: $primary;
+  border: 1px solid $primary;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+
+
+.next-slick-arrow,
+.prev-slick-arrow {
+  color: #000000;
+  font-size: 45px;
+}
+
+@media(max-width: 768px){
+  .slick-slider{
+    margin: 0;
+  }
+}

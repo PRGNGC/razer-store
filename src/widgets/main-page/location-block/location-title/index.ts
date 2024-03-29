@@ -1,0 +1,1 @@
+export { LocationTitle } from './ui'

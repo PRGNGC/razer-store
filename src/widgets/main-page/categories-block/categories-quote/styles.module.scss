@@ -1,0 +1,56 @@
+@import '@/app/common.scss';
+
+.callToAction{
+    padding: 120px 0;
+    max-width: 1920px;
+    margin: 0 auto;
+    .container{
+        display: flex;
+        justify-content: end;
+        max-width: 1520px;
+        margin: 0 auto;
+    }
+    background-image: url(/images/call-to-action.png);
+    background-color: $secondary;
+    background-position: center;
+    background-repeat: no-repeat;
+    .callToActionContent{
+        flex-basis: 50%;
+        .callToActionTitle{
+            @include oswald-text(44, $primary, 15, bold);
+        }
+        hr{
+            background-color: $primary;
+            height: 1px;
+            border: none;
+            outline: none;
+        }
+        .callToActionText{
+            @include oswald-text(28, $white, 15, bold);
+        }
+    }
+}
+
+@media(max-width: 1024px){
+        .callToAction{
+            padding: 45px 0;
+            .callToActionContent{
+                .callToActionTitle{
+                    @include oswald-text(36, $primary, 15, bold);
+                }
+            }
+        }
+}
+
+@media(max-width: 768px){
+        .callToAction{
+            .callToActionContent{
+                .callToActionTitle{
+                    @include oswald-text(28, $primary, 15, bold);
+                }
+                .callToActionText{
+                    @include oswald-text(20, $white, 15, bold);
+                }
+            }
+        }
+}

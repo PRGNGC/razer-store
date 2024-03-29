@@ -1,0 +1,1 @@
+export { SliderTemplate } from './ui'

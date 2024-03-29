@@ -1,0 +1,1 @@
+export { getSeveralMice } from './requests'

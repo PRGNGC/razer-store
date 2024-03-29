@@ -1,0 +1,1 @@
+export { NewsTitle } from './ui' 

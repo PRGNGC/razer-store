@@ -1,0 +1,44 @@
+@import '@/app/common.scss';
+
+.categories{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 15px;
+    row-gap: 15px;
+    flex-wrap: wrap;
+    .category{
+        display: flex;
+        position: relative;
+        padding: 10px 20px;
+        border: 1px solid $gray;
+        border-radius: 10px;
+        width: fit-content;
+        cursor: pointer;
+        .categoryName{
+            @include oswald-text(18, $gray, 15, bold);
+        }
+        .cross{
+            display: none;
+        }
+    }
+    .selectedCategory{
+        display: flex;
+        position: relative;
+        column-gap: 10px;
+        padding: 10px 20px;
+        border: 1px solid $primary;
+        border-radius: 10px;
+        width: fit-content;
+        background-color: $primary;
+        .selectedCategoryName{
+            @include oswald-text(18, $secondary , 15, bold);
+        }
+        .selectedCross{
+            display: block;
+            cursor: pointer;
+            z-index: 2;
+        }
+    }
+}

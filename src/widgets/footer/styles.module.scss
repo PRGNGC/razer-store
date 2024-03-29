@@ -1,0 +1,92 @@
+@import '@/app/common.scss';
+
+.footer{
+    background-color: $dark;
+    padding: 20px 0;
+    .container{
+        margin: 0 auto;
+        max-width: 1520px;
+        padding:  0 10px;
+        .footerContent{
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            column-gap: 120px;
+            row-gap: 50px;
+            flex-wrap: wrap;
+            .listContainer{
+                .list{ 
+                    .listTitle{
+                        @include oswald-text(18, $white, 15, bold)
+                    }
+                    .listItem{
+                        @include manrope-text(18, $gray, 400);
+                        margin-top: 16px;
+                    }
+                }
+            }
+        }
+        .footerOtherContent{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 1px solid $gray;
+            margin-top: 45px;
+            padding-top: 20px;
+            column-gap: 20px;
+            row-gap: 15px;
+            flex-wrap: wrap;
+            .copyrightWarning{
+                flex-shrink: 0;
+                @include manrope-text(18, $gray, 400)
+            }
+            .additionalInfo{
+                flex-shrink: 0;
+                display: flex;
+                a{
+                    li{
+                        border-right: 1px solid $gray;
+                        @include manrope-text(18, $gray, 400);
+                        padding: 0 10px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media(max-width: 768px){
+    .footer{
+        .container{
+            .footerOtherContent{
+                align-items: center;
+                justify-content: center;   
+                text-align: center; 
+                .copyrightWarning{
+                    @include manrope-text(16, $gray, 400);
+                    flex-shrink: 1;
+                }
+                .additionalInfo{
+                    flex-shrink: 1;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    justify-content: center;
+                    a{
+                        li{
+                            @include manrope-text(16, $gray, 400)
+                        }
+                    }
+                }
+                .countrySelect{
+                    .currentCountry{
+                        @include oswald-text(16, $white, 5, bold);
+                    }
+                    .changeCountry{
+                        @include manrope-text(16, $gray, 400)
+                    }
+                }
+            }
+        }
+    }
+}

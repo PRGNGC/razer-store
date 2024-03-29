@@ -1,0 +1,1 @@
+export { getSeveralChairs } from './requests'

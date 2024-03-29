@@ -1,0 +1,16 @@
+@import "@/app/common.scss";
+
+.navContent{
+    margin-top: 40px;
+    .container{
+        max-width: 1520px;
+        margin: 0 auto;
+        .navList{
+            display: flex;
+            column-gap: 20px;
+            li{
+                @include oswald-text(25, $white, 15, 400);
+            }
+        }
+    }
+}

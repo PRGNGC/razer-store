@@ -1,0 +1,1 @@
+export { ChairsTitle } from './ui'

@@ -1,0 +1,24 @@
+@import '@/app/common.scss';
+
+.cartInfoContent{
+    margin-top: 40px;
+    .container{
+        max-width: 1520px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .productsCount{
+            @include oswald-text(28, $white, 15, 400);
+            .countNumber{
+                @include oswald-text(28, $primary, 15, bold)
+            }
+        }
+        .productsPrice{
+            @include oswald-text(28, $white, 15, 400);
+            .priceNumber{
+                @include oswald-text(28, $primary, 15, bold)
+            }
+        }
+    }
+}

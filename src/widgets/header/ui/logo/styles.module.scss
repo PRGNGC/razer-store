@@ -1,0 +1,11 @@
+@import '@/app/common.scss';
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 160px;    
+    .captionStyle{
+        @include oswald-text(18, $primary, 15, bold);
+    }
+}

@@ -1,0 +1,1 @@
+export { getSeveralMobile } from './requests'

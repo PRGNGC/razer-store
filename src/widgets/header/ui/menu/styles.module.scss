@@ -1,0 +1,37 @@
+@import '@/app/common.scss';
+
+.menuBurgerContainer{
+    background-color: $dark;
+    padding: 20px 24px;
+    max-width: 270px;
+    height: calc(100% - 125px);
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-direction: column;
+    position: absolute;
+    top: 85px;
+    left: 0;
+    z-index: 2;
+
+    .navigationBar{
+        margin-bottom: 20px;
+        width: 100%;
+        .menuItem{
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid $gray;
+            padding: 15px 0;
+        }
+        .menuItem > a{
+            @include oswald-text(18, $gray, 15, 400);
+            margin-left: 20px;
+        }
+    }
+}
+
+@media(min-width: 768px){
+    .menuBurgerContainer{
+        display: none;
+    }
+}

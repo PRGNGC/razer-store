@@ -1,0 +1,1 @@
+export { getSeveralComponents } from './requests'

@@ -1,0 +1,1 @@
+export { CorpLogo } from './ui'

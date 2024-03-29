@@ -1,0 +1,23 @@
+@import '@/app/common.scss';
+
+.button{
+    display: block;
+    width: fit-content;
+    border-radius: 50px;
+    .greenButton{
+        @include green-button();
+        // width: fit-content;
+    }
+    .transparentButton{
+        @include transparent-button();
+        width: fit-content;
+    }
+    .whiteButton{
+        @include white-button();
+        width: fit-content;
+    }
+    .blackButton{
+        @include black-button();
+        width: fit-content;
+    }
+}

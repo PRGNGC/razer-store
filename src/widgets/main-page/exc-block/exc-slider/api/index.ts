@@ -1,0 +1,1 @@
+export { getExclusives } from './requests'

@@ -1,0 +1,11 @@
+@import '@/app/common.scss';
+
+.audio{
+    margin-top: 65px;
+    margin-bottom: 65px;
+    // background-color: $secondary;
+    .container{
+        margin: 0 auto;
+        max-width: 1520px;
+    }
+}

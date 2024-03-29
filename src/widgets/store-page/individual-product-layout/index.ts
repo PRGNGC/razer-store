@@ -1,0 +1,1 @@
+export { IndividualProductLayout } from './ui'

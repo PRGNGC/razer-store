@@ -1,0 +1,1 @@
+export { CategoriesQuote } from './ui'

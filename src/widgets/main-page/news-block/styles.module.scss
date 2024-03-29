@@ -1,0 +1,14 @@
+@import '@/app/common.scss';
+
+.newsBlock{
+    background-color: $secondary;
+    padding: 110px 0 140px 0;
+    .container{
+        max-width: 1520px;
+        margin: 0 auto;
+        padding: 0 10px;
+        .newsBlockContent{
+
+        }
+    }
+}

@@ -1,0 +1,17 @@
+@import '@/app/common.scss';
+
+.mainScreenSocialLinks{
+    width: fit-content;
+    flex-shrink: 0;
+    .socialLinksWatchword{
+        @include oswald-text(18, $primary, 15, bold);
+        @media(max-width: 768px){
+            @include oswald-text(14, $primary, 15, bold);
+        }
+    }
+    .socialLinks{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}

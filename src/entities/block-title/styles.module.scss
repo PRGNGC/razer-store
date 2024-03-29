@@ -1,0 +1,40 @@
+@import '@/app/common.scss';
+
+.blockHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 30%;
+    .blockHeaderText{
+        .blockHeaderTitle{
+            @include oswald-text(44, $primary, 15, bold);
+        }
+        .divider{
+            background-color: $primary;
+            border: none;
+            outline: none;
+            height: 1px;
+        }
+        .blockHeaderSubheader{
+            @include manrope-text(18, $gray, 400);
+        }
+    }
+}
+
+@media(max-width: 768px){
+    .blockHeader{
+        flex-direction: column;
+        align-items: start;
+        .blockHeaderText{
+            .blockHeaderTitle{
+                @include oswald-text(34, $primary, 15, bold);
+            }
+            .blockHeaderSubheader{
+                @include manrope-text(14, $gray, 400);
+            }
+        }
+        .childrenContainer{
+            margin: 10px 0 0 auto;
+        }
+    }
+}

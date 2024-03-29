@@ -1,0 +1,1 @@
+export { GearTitle } from './ui'

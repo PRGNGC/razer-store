@@ -1,0 +1,46 @@
+@import '@/app/common.scss';
+
+.mainScreenProduct{
+    max-width: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+    @media (max-width: 768px){
+        max-width: 475px;
+    }
+    .productWhiteTitle{
+        @include oswald-text(72, $white, 15, bold);
+        @media (max-width: 768px){
+            @include oswald-text(48, $white, 15, bold);
+        }
+        @media (max-width: 600px){
+            @include oswald-text(35, $white, 15, bold);
+        }
+    }
+    .productGreenTitle{
+        @include oswald-text(72, $primary, 15, bold);
+        @media (max-width: 768px){
+            @include oswald-text(48, $primary, 15, bold);
+        }
+        @media (max-width: 600px){
+            @include oswald-text(35, $primary, 15, bold);
+        }
+    }
+        .productText{
+            margin: 25px 0;
+            @include manrope-text(18, $white, 400);
+            @media(max-width: 600px){
+                margin-top: 10px;
+                @include manrope-text(14, $white, 400)
+            }
+        }
+        .productButtons{
+            display: flex;
+            flex-wrap: wrap;
+            column-gap: 20px;
+            row-gap: 10px;
+        }
+    @media(max-width: 768px){
+        max-width: 475px;
+    }
+}

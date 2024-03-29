@@ -1,0 +1,68 @@
+@import '@/app/common.scss';
+
+.otherProducts{
+    display: flex;  
+    column-gap: 20px;    
+    row-gap: 20px;    
+    flex-wrap: wrap;
+    align-items: end;
+    @media(max-width: 1024px){
+        justify-content: end;
+    }
+    @media(max-width: 600px){
+        width: 99%;
+        max-width: 450px;
+        height: 210px;
+        justify-content:unset;
+        flex-wrap: nowrap;
+        scroll-snap-type: x mandatory;
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+    .otherProduct{
+        width: 230px;
+        border-radius: 20px;
+        height: 160px;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        position: relative;
+        a{
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .otherProductName{
+            @include oswald-text(18, $white, 15, bold);
+            border-bottom: 1px solid $white;
+            width: fit-content;
+        }
+        @media(max-width: 1024px){
+            width: 140px;
+            padding: 0 20px;
+        }
+        @media(max-width: 768px){
+            width: 120px;
+        }
+        @media(max-width: 600px){
+            scroll-snap-align: start;
+            min-width: 260px;
+            height: 100%;
+        }
+    }
+    .anotherProduct1{
+        background-image: url("/images/another-product-1.png");
+    }
+    .anotherProduct2{
+        background-image: url("/images/another-product-2.png");
+    }
+    .anotherProduct3{
+        background-image: url("/images/another-product-3.png");
+    }
+}

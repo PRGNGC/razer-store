@@ -1,0 +1,108 @@
+@import '@/app/common.scss';
+
+.filtersBlock{
+    background-color: $secondary;
+    border-radius: 10px;
+    width: max-content;
+    max-width: 330px;
+    padding: 20px;
+    
+    .appliedFiltersBlock{
+        padding-bottom: 20px;
+        .appliedFiltersHeader{
+            display: flex;
+            justify-content: space-between;
+            .appliedFiltersTitle{
+                @include oswald-text(18, $white, 5, bold);
+            }
+            .appliedFiltersNullify{
+                text-decoration: underline;
+                cursor: pointer;
+            }
+        }
+        .appliedFiltersList{
+            display: flex;
+            flex-direction: column;
+            row-gap: 10px;
+            margin-top: 10px;
+            .selectedFilter{
+                padding: 10px;
+                border-radius: 10px;
+                border: 1px solid $primary;
+                display: flex;
+                align-items: center;
+                width: fit-content;
+                .selectedFilterName{
+                    @include manrope-text(18, $primary, 400);
+                }
+                .deleteAppliedFilter{
+                    margin-left: 5px;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+
+    .filters{
+        .filterCategory{
+            padding: 20px 0;
+            border-top: 1px solid $gray;
+            display: flex;
+            flex-direction: column;
+            row-gap: 10px;
+            .filterCategoryName{
+                @include oswald-text(18, $white, 5, bold);
+            }
+            .filterCategoryOption{
+                display: block;
+                cursor: pointer;
+                @include manrope-text(18, $gray, 400);
+                input[type="checkbox"] {
+                    -webkit-appearance: none;
+                    appearance: none;
+                    background-color: transparent;
+                    margin-right: 10px;
+                    width: 24px;
+                    height: 24px;
+                    border: 1px solid $gray;
+                    border-radius: 5px;
+                    cursor: pointer;
+
+                }
+
+                input[type="checkbox"]:checked {
+                    border: 1px solid $primary;
+                    cursor: pointer;
+                    
+                }
+
+                input[type="checkbox"]::before {
+                    content: "";
+                    display: inline-block;
+                    margin-left: 4px;
+                    margin-bottom: 1px;
+                    width: 12px;
+                    height: 12px;
+                    color: $primary;
+                    background-color: $primary;
+                    transition: 120ms opacity ease-in-out;
+                    opacity: 0;
+                    clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+                    
+                }
+                
+                input[type="checkbox"]:checked::before {
+                    opacity: 1;
+                }
+                
+                // input[type="checkbox"]:checked:has(label) {
+                //     color: $primary;
+                // }
+            }
+            .filterCategoryOption:has(input[type="checkbox"]:checked){
+                color: $primary;
+            }
+            
+        }
+    }
+}

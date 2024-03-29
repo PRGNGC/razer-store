@@ -1,0 +1,1 @@
+export { getStores } from './requests'

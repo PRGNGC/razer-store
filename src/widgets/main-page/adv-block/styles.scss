@@ -1,0 +1,68 @@
+@import '@/app/common.scss';
+
+.advertisementBlock{
+    background-color: $secondary;
+    .container{
+        max-width: 1920px;
+        margin: 0 auto;
+        padding: 0 10px;
+        .slick-slider{
+            .slick-prev{
+                left: 15px ;
+                z-index: 100;
+            }
+            .slick-next{
+                right:  15px ;
+                z-index: 100;
+            }
+            .slick-dots{
+                bottom: 25px;
+            }
+        }
+        .advertisement{
+            position: relative;
+            height: 65vh;
+            display: flex !important;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            gap: 25px;
+            padding: 50px 0;
+            .advImg{
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                z-index: -9999;
+                object-fit: cover;
+                object-position: center;
+            }
+            .advInfo{
+                max-width: 690px;
+                .advTitle{
+                    @include oswald-text(44, $primary, 15, bold);
+                }
+                hr{
+                    outline: none;
+                    border: none;
+                    background-color: $primary;
+                    height: 1px;
+                    margin: 30px 0;
+                }
+                .advText{
+                    @include manrope-text(18, $white, 400);
+                }
+            }
+        }
+    }
+}
+
+@media(max-width: 1024px){
+    .advertisementBlock{
+        .container{
+            .advertisement{
+                height: 565px;
+            }
+        }
+    }
+}

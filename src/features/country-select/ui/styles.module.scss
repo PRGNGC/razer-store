@@ -1,0 +1,99 @@
+@import '@/app/common.scss';
+
+.countrySelect{
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    .currentCountry{
+        @include oswald-text(18, $white, 5, bold);
+    }
+    .changeCountry{
+        @include manrope-text(18, $gray, 400);
+        padding: 0 10px;
+        margin-left: 10px;
+        border-left:1px solid $gray;
+        border-radius: 0;
+        cursor: pointer;
+    }
+}
+
+@media(max-width: 768px){
+                .countrySelect{
+                    .currentCountry{
+                        @include oswald-text(16, $white, 5, bold);
+                    }
+                    .changeCountry{
+                        @include manrope-text(16, $gray, 400)
+                    }
+                }
+}
+
+
+.countriesBlock{
+    .container{
+        max-width: 900px;
+        max-height: 95vh;
+        overflow-y: scroll;
+        text-align: center;
+        .modalTitle{
+            @include oswald-text(28, $white, 5, bold);
+        }
+        .CountriesBlockText{
+            @include manrope-text(18, $gray, 400)
+        }
+        .regionBlock{
+            text-align: left;
+            padding: 40px 0;
+            border-bottom: 1px solid $gray;
+            .regionTitle{
+                margin-bottom: 40px;
+                @include oswald-text(28, $gray, 15, bold);
+            }
+            .regionsCountries{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: start;
+                row-gap: 40px;
+                .regionsCountry{
+                    text-align: left;
+                    width: 200px;
+                    cursor: pointer;
+                    .countryName{
+                        text-wrap: wrap;
+                        @include oswald-text(18, $white, 5, bold);
+                    }
+                    .countryLanguage{
+                        @include manrope-text(18, $gray, 400);
+                    }
+                }
+            }
+        }
+    }
+    /* Define the scrollbar style */
+.container::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  
+  /* Define the thumb style */
+  .container::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: $gray;
+  }
+  
+  /* Define the track style */
+  .container::-webkit-scrollbar-track {
+    background-color: $dark;
+  }
+  
+  /* Define the button style */
+  .container::-webkit-scrollbar-button {
+    background-color: $dark;
+    // border-radius: 5px;
+  }
+  
+//   /* Define the button style when being hovered over */
+//   .container::-webkit-scrollbar-button:hover {
+//     background-color: #999999;
+//   }
+}

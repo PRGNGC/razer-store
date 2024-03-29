@@ -1,0 +1,23 @@
+@import '@/app/common.scss';
+
+.exclusives{
+    background-color: $secondary;
+    padding: 140px 0;
+    .container{
+        max-width: 1520px;
+        margin: 0 auto;
+        padding: 0 10px;
+    }
+}
+
+@media(max-width: 1024px){
+    .exclusives{
+        padding: 25px 0 65px 0;
+    }
+}
+
+.regular{
+    display: flex;
+    width: 100%;
+    overflow-x: scroll;
+}

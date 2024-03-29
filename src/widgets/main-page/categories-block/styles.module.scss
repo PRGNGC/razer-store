@@ -1,0 +1,95 @@
+@import '@/app/common.scss';
+
+.productsCategories{
+    background-color: $secondary;
+    .container{
+        max-width: 1520px;
+        margin: 0 auto;
+        padding: 0 10px;
+    }
+}
+
+
+
+@media(max-width: 1024px){
+    .productsCategories{
+        .container{
+            .allCategories{
+                margin: 25px 0 20px 0;
+                grid-template-rows: repeat(4, 166px);
+            }
+        }
+        .callToAction{
+            padding: 45px 0;
+            .callToActionContent{
+                .callToActionTitle{
+                    @include oswald-text(36, $primary, 15, bold);
+                }
+            }
+        }
+    }
+}
+
+@media(max-width: 768px){
+    .productsCategories{
+        .container{
+            .allCategories{
+                grid-template-columns: 1fr 1fr;
+                grid-template-rows: repeat(5, 166px);
+                .category{
+                @include oswald-text(20, $white, 5, bold);
+                }
+                .laptopCategory{
+                    grid-column: 1 / 2;
+                    grid-row: 1 / 2;
+                }
+                .keyboardCategory{
+                    grid-column: 2 / 3;
+                    grid-row: 1 / 2;
+                }
+                .miceCategory{
+                    grid-column: 1 / 2;
+                    grid-row: 2 / 3;
+                }
+                .componentCategory{
+                    grid-column: 2 / 3;
+                    grid-row: 2 / 3;
+                }
+                .audioCategory{
+                    grid-column: 1 / 2;
+                    grid-row: 3 / 4;
+                }
+                .chairCategory{
+                    grid-column: 2 / 3;
+                    grid-row: 3 / 4;
+                }
+                .streamingCategory{
+                    grid-column: 1 / 2;
+                    grid-row: 4 / 5;
+                }
+                .consoleCategory{
+                    grid-column: 2 / 3;
+                    grid-row: 4 / 5;
+                }
+                .mobileCategory{
+                    grid-column: 1 / 2;
+                    grid-row: 5 / 6;
+                }
+                .gearCategory{
+                    grid-column: 2 / 3;
+                    grid-row: 5 / 6;
+                }
+            }
+        }
+        .callToAction{
+            .callToActionContent{
+                .callToActionTitle{
+                    @include oswald-text(28, $primary, 15, bold);
+                }
+                .callToActionText{
+                    @include oswald-text(20, $white, 15, bold);
+                }
+            }
+        }
+    }
+}

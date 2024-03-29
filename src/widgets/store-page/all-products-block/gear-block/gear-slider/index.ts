@@ -1,0 +1,1 @@
+export { GearSlider } from './ui'

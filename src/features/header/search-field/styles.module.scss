@@ -1,0 +1,43 @@
+@import '@/app/common.scss';
+
+.searchFieldContent{
+    background-color: $gray;
+    border-radius: 23px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+
+    .searchGlass{
+        margin-right: 10px;
+    }
+
+    .searchInput{
+        background-color: $gray;
+        @include oswald-text(18, $secondary, 15, 400);
+        outline: none;
+        border: none;
+    }
+
+    .searchInput::placeholder{
+        @include oswald-text(18, $secondary, 15, 400);
+    }
+}
+
+@media(max-width: 768px){
+    .main{
+        display: none;
+    }
+}
+
+@media(max-width: 1024px){
+    .searchFieldContent{
+        .searchInput{
+            @include oswald-text(14, $secondary, 15, 400);
+            width: 70px;
+        }
+        .searchInput::placeholder{
+            @include oswald-text(14, $secondary, 15, 400);
+        }
+    }
+}

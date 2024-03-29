@@ -1,0 +1,13 @@
+@import '@/app/common.scss';
+
+.categoriesBlock{
+    // background-color: $secondary;
+    .container{
+        max-width: 1520px;
+        margin: 0 auto;
+        .categoriesTitle{
+            @include oswald-text(28, $white, 5, bold);
+            text-transform: uppercase;
+        }
+    }
+}

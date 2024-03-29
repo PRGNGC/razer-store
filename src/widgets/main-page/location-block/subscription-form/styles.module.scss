@@ -1,0 +1,48 @@
+@import '@/app/common.scss';
+
+.subscribeForm{
+    border-radius: 20px;
+    background-image: url(/images/subscription-background.png);
+    background-repeat: no-repeat;
+    background-position-x: -150px;
+    background-size: contain;
+    background-color:  #905372;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+    row-gap: 25px;
+    margin-top: 140px;
+    text-align: center;
+    .subscribeFormTitle{
+        @include oswald-text(28, $white, 15, bold)
+    }
+    .formText{
+        @include manrope-text(18, $white, 400)
+    }
+    form{
+        display: flex;
+        align-items: center;
+        column-gap: 20px;
+        justify-content: center;
+        width: 100%;
+        input{
+            border-radius: 50px;
+            padding: 13px 20px;
+            @include manrope-text(18, $secondary, 400);
+            outline: none;
+            border: none;
+            width: 450px;
+        }
+        input:placeholder{
+            @include manrope-text(18, $gray, 400);
+        }
+        .subscribeButton{
+            @include black-button();
+            cursor: pointer;
+        }
+    }
+    .formDisclaimer{
+        @include manrope-text(12, $white, 400)
+    }
+}

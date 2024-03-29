@@ -1,0 +1,11 @@
+@import '@/app/common.scss';
+
+.locationsBlock{
+    padding: 145px 0;
+    background-color: $secondary;
+    .container{
+        max-width: 1520px;
+        margin: 0 auto;
+        padding: 0 10px;
+    }
+}

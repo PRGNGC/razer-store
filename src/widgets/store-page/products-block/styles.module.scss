@@ -1,0 +1,16 @@
+@import '@/app/common.scss';
+
+.productsContainer{
+    .additionalInfo{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 25px;
+    }
+    .productsBlock{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 25px;
+    }
+}

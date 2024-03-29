@@ -1,0 +1,1 @@
+export { ConsoleTitle } from './ui'

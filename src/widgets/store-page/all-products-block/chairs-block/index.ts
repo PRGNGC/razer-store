@@ -1,0 +1,1 @@
+export { ChairsBlock } from './ui'

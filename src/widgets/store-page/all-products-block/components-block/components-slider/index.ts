@@ -1,0 +1,1 @@
+export { ComponentsSlider } from './ui'

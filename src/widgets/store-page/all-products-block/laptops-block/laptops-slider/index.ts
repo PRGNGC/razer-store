@@ -1,0 +1,1 @@
+export { LaptopsSlider } from './ui'

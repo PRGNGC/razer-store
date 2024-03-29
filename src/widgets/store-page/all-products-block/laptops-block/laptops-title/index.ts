@@ -1,0 +1,1 @@
+export { LaptopsTitle } from './ui'

@@ -1,0 +1,2259 @@
+{
+  "news": [
+    {
+      "title": "THE ULTIMATE 14” GAMING LAPTOP",
+      "text": "Gaming Laptop with AMD Ryzen™ 6900HX",
+      "type": "LAPTOP",
+      "img": "/images/news-img-1.png",
+      "size": 1,
+      "id": "6790"
+    },
+    {
+      "title": "TWITCHCON SAN DIEGO 2022",
+      "text": "We`ll see you there",
+      "type": "EVENT",
+      "img": "/images/news-img-2.png",
+      "size": 1,
+      "id": "f822"
+    },
+    {
+      "title": "THE ULTIMATE 14” GAMING LAPTOP 2022",
+      "text": "Gaming Laptop with AMD Ryzen™ 6900HX",
+      "type": "LAPTOP",
+      "img": "/images/news-img-3.png",
+      "size": 2,
+      "id": "ac75"
+    },
+    {
+      "title": "RAZERSTORE REWARDS",
+      "text": "US$10 off* and a bonus of 1,000 Razer Silver",
+      "type": "EVENT",
+      "img": "/images/news-img-4.png",
+      "size": 2,
+      "id": "7e27"
+    },
+    {
+      "title": "RAZER NOMAD DUFFEL BAG",
+      "text": "PACK TO CONQUER",
+      "type": "LIFESTYLE",
+      "img": "/images/news-img-5.png",
+      "size": 1,
+      "id": "825c"
+    },
+    {
+      "title": "RAZER DEATHSTALKER V2 PRO",
+      "text": "A wireless ultra-slim optical keyboard",
+      "type": "KEYBOARD",
+      "img": "/images/news-img-6.png",
+      "size": 1,
+      "id": "211d"
+    },
+    {
+      "title": "Laptop Products",
+      "text": "Laptop Products",
+      "type": "LAPTOP",
+      "img": "/images/laptop-products.png",
+      "size": 1,
+      "id": "3471"
+    },
+    {
+      "title": "Audio Products",
+      "text": "Audio Products",
+      "type": "AUDIO",
+      "img": "/images/audio-products.png",
+      "size": 1,
+      "id": "2801"
+    },
+    {
+      "title": "Components Products",
+      "text": "Components Products",
+      "type": "COMPONENT",
+      "img": "/images/component-products.png",
+      "size": 2,
+      "id": "ae98"
+    },
+    {
+      "title": "Keyboards Products",
+      "text": "Keyboards Products",
+      "type": "KEYBOARD",
+      "img": "/images/keyboard-products.png",
+      "size": 2,
+      "id": "e9cc"
+    },
+    {
+      "title": "Console Products",
+      "text": "Console Products",
+      "type": "CONSOLE",
+      "img": "/images/console-products.png",
+      "size": 2,
+      "id": "d04f"
+    },
+    {
+      "title": "Streaming Products",
+      "text": "Streaming Products",
+      "type": "STREAMING",
+      "img": "/images/streaming-products.png",
+      "size": 1,
+      "id": "b80b"
+    },
+    {
+      "title": "Mobile Products",
+      "text": "Mobile Products",
+      "type": "MOBILE",
+      "img": "/images/mobile-products.png",
+      "size": 2,
+      "id": "8062"
+    },
+    {
+      "title": "Gear Products",
+      "text": "Gear Products",
+      "type": "GEAR",
+      "img": "/images/gear-products.png",
+      "size": 1,
+      "id": "e7fe"
+    }
+  ],
+  "advertisements": [
+    {
+      "advTitle": "GEAR WORTHY OF A SPARTAN",
+      "advText": "Gear up for battle with our exclusive line of UNSC-sanctioned peripherals—forged for PC and Xbox in the image of the iconic Mjolnir Powered Assault Armor worn by the Master Chief.",
+      "advImg": "/images/advertisement-background.png",
+      "id": "8727"
+    },
+    {
+      "advTitle": "GEAR WORTHY OF A SPARTAN",
+      "advText": "Gear up for battle with our exclusive line of UNSC-sanctioned peripherals—forged for PC and Xbox in the image of the iconic Mjolnir Powered Assault Armor worn by the Master Chief.",
+      "advImg": "/images/advertisement-background.png",
+      "id": "7337"
+    }
+  ],
+  "exclusives": [
+    {
+      "deviceId": "ucbb928",
+      "deviceType": "AUDIO",
+      "deviceAddInfo": "-50% off",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/headphones.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "556",
+      "deviceTitle": "Razer BlackShark V2 CouRageJD Edition",
+      "deviceActualPrice": "$54.99",
+      "deviceOldPrice": "$109.99",
+      "id": "f271"
+    },
+    {
+      "deviceId": "owinpw3",
+      "deviceType": "LAPTOP",
+      "deviceAddInfo": "-8% off",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/laptop.png",
+      "deviceRating": "4.7",
+      "deviceReviewsCount": "287",
+      "deviceTitle": "Razer Blade 15 Base Model - QHD 165Hz - GeForce RTX 3070 - Black",
+      "deviceActualPrice": "$2,099.99",
+      "deviceOldPrice": "$2,299.99",
+      "id": "bc42"
+    },
+    {
+      "deviceId": "oowub56",
+      "deviceType": "CONSOLE",
+      "deviceAddInfo": "-45% off",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/console.png",
+      "deviceRating": "4.2",
+      "deviceReviewsCount": "1021",
+      "deviceTitle": "Razer Kishi for Android (Xbox)",
+      "deviceActualPrice": "$54.99",
+      "deviceOldPrice": "$99.99",
+      "id": "e44c"
+    },
+    {
+      "deviceId": "ip0bpq7",
+      "deviceType": "CHAIR",
+      "deviceAddInfo": "-10% off",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/chair.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "451",
+      "deviceTitle": "Razer Iskur - Black / Green - XL",
+      "deviceActualPrice": "$536.99",
+      "deviceOldPrice": "$599.99",
+      "id": "d637"
+    },
+    {
+      "deviceId": "p5cnu02",
+      "deviceType": "GEAR",
+      "deviceAddInfo": "-30% off",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/backpack.png",
+      "deviceRating": "4.8",
+      "deviceReviewsCount": "94",
+      "deviceTitle": "Razer Rogue 13 Backpack V3 - Chromatic",
+      "deviceActualPrice": "$41.99",
+      "deviceOldPrice": "$59.99",
+      "id": "6e08"
+    }
+  ],
+  "countries": [
+    {
+      "region": "North America",
+      "countries": [
+        {
+          "country": "Canada",
+          "language": "English",
+          "mapLocation": "USA"
+        },
+        {
+          "country": "United States",
+          "language": "English"
+        }
+      ],
+      "id": "3e9e"
+    },
+    {
+      "region": "Latin America",
+      "countries": [
+        {
+          "country": "Argentina",
+          "language": "Spanish",
+          "mapLocation": "USA"
+        },
+        {
+          "country": "Bolivia",
+          "language": "Spanish"
+        },
+        {
+          "country": "Brazil",
+          "language": "Portugese"
+        },
+        {
+          "country": "Chile",
+          "language": "Spanish"
+        },
+        {
+          "country": "Colombia",
+          "language": "Spanish"
+        },
+        {
+          "country": "Costa Rica",
+          "language": "Spanish"
+        },
+        {
+          "country": "El Salvador",
+          "language": "Spanish"
+        },
+        {
+          "country": "Guatemala",
+          "language": "Spanish"
+        },
+        {
+          "country": "Mexico",
+          "language": "Spanish"
+        },
+        {
+          "country": "Panama",
+          "language": "Spanish"
+        },
+        {
+          "country": "Peru",
+          "language": "Spanish"
+        }
+      ],
+      "id": "c375"
+    },
+    {
+      "region": "Europe",
+      "countries": [
+        {
+          "country": "Austria (Österreich)",
+          "language": "German",
+          "mapLocation": "United Kingdom"
+        },
+        {
+          "country": "Belgium",
+          "language": "English"
+        },
+        {
+          "country": "Bulgaria",
+          "language": "English"
+        },
+        {
+          "country": "Croatia",
+          "language": "English"
+        },
+        {
+          "country": "Cyprus",
+          "language": "English"
+        },
+        {
+          "country": "Czech Republic",
+          "language": "English"
+        },
+        {
+          "country": "Denmark",
+          "language": "English"
+        },
+        {
+          "country": "Estonia",
+          "language": "English"
+        },
+        {
+          "country": "Finland",
+          "language": "English"
+        },
+        {
+          "country": "France",
+          "language": "French"
+        },
+        {
+          "country": "Germany",
+          "language": "German"
+        },
+        {
+          "country": "Greece",
+          "language": "English"
+        },
+        {
+          "country": "Hungary",
+          "language": "English"
+        },
+        {
+          "country": "Ireland",
+          "language": "English"
+        },
+        {
+          "country": "Italy (Italia)",
+          "language": "English"
+        },
+        {
+          "country": "Latvia",
+          "language": "English"
+        },
+        {
+          "country": "Luxemburg",
+          "language": "English"
+        },
+        {
+          "country": "Malta",
+          "language": "English"
+        },
+        {
+          "country": "Netherlands",
+          "language": "English"
+        },
+        {
+          "country": "Norway",
+          "language": "English"
+        },
+        {
+          "country": "Poland",
+          "language": "English"
+        },
+        {
+          "country": "Portugal",
+          "language": "English"
+        },
+        {
+          "country": "Romania",
+          "language": "English"
+        },
+        {
+          "country": "Slovakia",
+          "language": "English"
+        },
+        {
+          "country": "Slovenia",
+          "language": "English"
+        },
+        {
+          "country": "Spain (España)",
+          "language": "English"
+        },
+        {
+          "country": "Sweden",
+          "language": "English"
+        },
+        {
+          "country": "United Kingdom",
+          "language": "English"
+        }
+      ],
+      "id": "e8ab"
+    },
+    {
+      "region": "Asia Pacific",
+      "countries": [
+        {
+          "country": "Australia",
+          "language": "English",
+          "mapLocation": "Hong Kong"
+        },
+        {
+          "country": "Hong Kong (香港)",
+          "language": "English"
+        },
+        {
+          "country": "Hong Kong (香港)",
+          "language": "Traditional Chinese"
+        },
+        {
+          "country": "Japan",
+          "language": "Japanese"
+        },
+        {
+          "country": "Mainland China (中国大陆)",
+          "language": "Simplified Chinese"
+        },
+        {
+          "country": "Malayasa",
+          "language": "English"
+        },
+        {
+          "country": "New Zealand",
+          "language": "English"
+        },
+        {
+          "country": "Philippines",
+          "language": "English"
+        },
+        {
+          "country": "Singapore",
+          "language": "English"
+        },
+        {
+          "country": "South Korea (대한민국)",
+          "language": "Korean"
+        },
+        {
+          "country": "Taiwan (台灣)",
+          "language": "Traditional Chinese"
+        },
+        {
+          "country": "Thailand",
+          "language": "English"
+        }
+      ],
+      "id": "af38"
+    }
+  ],
+  "stores": [
+    {
+      "storeImg": "/images/san-diego-store.png",
+      "storeTitle": "RAZERSTORE SAN DIEGO",
+      "storeText": "4373 La Jolla Village Dr #G2, San Diego, CA 92122",
+      "storeLocationLatitude": 32.869494,
+      "storeLocationLongitude": -117.211679,
+      "storeCountry": "USA",
+      "id": "b723"
+    },
+    {
+      "storeImg": "/images/new-jersey-store.png",
+      "storeTitle": "RAZERSTORE NEW JERSEY",
+      "storeText": "One Garden State Plaza 1 Garden State Plaza – Space 2128 Paramus, NJ 07652",
+      "storeLocationLatitude": 40.917995,
+      "storeLocationLongitude": -74.077044,
+      "storeCountry": "USA",
+      "id": "30a2"
+    },
+    {
+      "storeImg": "/images/austin-store.png",
+      "storeTitle": "RAZERSTORE AUSTIN",
+      "storeText": "The Domain 11401 Century Oaks Terrace Austin, TX 78758",
+      "storeLocationLatitude": 30.400657,
+      "storeLocationLongitude": -97.726405,
+      "storeCountry": "USA",
+      "id": "999c"
+    },
+    {
+      "storeImg": "/images/san-francisco-store.png",
+      "storeTitle": "RAZERSTORE SAN FRANCISCO",
+      "storeText": "Westfield San Francisco Centre, Shop 136 865 Market Street San Francisco, CA 94103",
+      "storeLocationLatitude": 37.783999,
+      "storeLocationLongitude": -122.40721,
+      "storeCountry": "USA",
+      "id": "0336"
+    },
+    {
+      "storeImg": "/images/seattle-store.png",
+      "storeTitle": "RAZERSTORE SEATTLE",
+      "storeText": "University Village Space #C70 2616 NE 46th St.Seattle, WA 98105",
+      "storeLocationLatitude": 47.663822,
+      "storeLocationLongitude": -122.297834,
+      "storeCountry": "USA",
+      "id": "e459"
+    },
+    {
+      "storeImg": "/images/las-vegas-store.png",
+      "storeTitle": "RAZERSTORE LAS VEGAS",
+      "storeText": "10250 Santa Monica Blvd #2460 Level 2, Los Angeles CA 90067",
+      "storeLocationLatitude": 36.117369,
+      "storeLocationLongitude": -115.168453,
+      "storeCountry": "USA",
+      "id": "c6d5"
+    },
+    {
+      "storeImg": "/images/los-angeles-store.jpg",
+      "storeTitle": "RAZERSTORE LOS ANGELES",
+      "storeText": "The Linq Promenade 3545 S. Las Vegas Blvd. L-27, Las Vegas,​ NV 89109",
+      "storeLocationLatitude": 34.059803,
+      "storeLocationLongitude": -118.419715,
+      "storeCountry": "USA",
+      "id": "f878"
+    },
+    {
+      "storeImg": "/images/new-york-store.jpg",
+      "storeTitle": "RAZERSTORE NEW YORK",
+      "storeText": "630 Old Country Road Space 1054 Garden City, NY 11530",
+      "storeLocationLatitude": 40.74257,
+      "storeLocationLongitude": -73.61576,
+      "storeCountry": "USA",
+      "id": "eb4b"
+    },
+    {
+      "storeImg": "/images/king-of-prusia-store.jpg",
+      "storeTitle": "RAZERSTORE KING OF PRUSSIA",
+      "storeText": "The Plaza King of Prussia 160 North Gulph Road Suite 2352 King of Prussia, PA 19406 United States",
+      "storeLocationLatitude": 40.085747,
+      "storeLocationLongitude": -75.393082,
+      "storeCountry": "USA",
+      "id": "1c48"
+    },
+    {
+      "storeImg": "/images/orlando-store.jpg",
+      "storeTitle": "RAZERSTORE ORLANDO",
+      "storeText": "8001 S. Orange Blossom Trail Suite 136 Orlando, FL 32809",
+      "storeLocationLatitude": 28.446005,
+      "storeLocationLongitude": -81.395326,
+      "storeCountry": "USA",
+      "id": "ccfe"
+    },
+    {
+      "storeImg": "/images/miami-store.jpg",
+      "storeTitle": "RAZERSTORE MIAMI",
+      "storeText": "7535 North Kendall Drive Suite 1510A Miami, FL 33156",
+      "storeLocationLatitude": 25.690232,
+      "storeLocationLongitude": -80.313414,
+      "storeCountry": "USA",
+      "id": "fdc7"
+    },
+    {
+      "storeImg": "/images/london-store.jpg",
+      "storeTitle": "RAZERSTORE LONDON",
+      "storeText": "Charing Cross Unit 7, 53 Charing Cross Road, London,​ WC2H 7PZ, United Kingdom",
+      "storeLocationLatitude": 51.5140563,
+      "storeLocationLongitude": -0.1295426,
+      "storeCountry": "United Kingdom",
+      "id": "463e"
+    },
+    {
+      "storeImg": "/images/singapore-store.jpg",
+      "storeTitle": "RAZERSTORE SINGAPORE",
+      "storeText": "Razer SEA HQ 1 one-north Crescent Singapore 138538",
+      "storeLocationLatitude": 1.29404,
+      "storeLocationLongitude": 103.850658,
+      "storeCountry": "Singapore",
+      "id": "9d03"
+    },
+    {
+      "storeImg": "/images/funan-store.jpg",
+      "storeTitle": "RAZERSTORE FUNAN",
+      "storeText": "Funan 107 North Bridge Rd #01-10 Funan Singapore 179105'",
+      "storeLocationLatitude": 1.299565,
+      "storeLocationLongitude": 103.79278,
+      "storeCountry": "Singapore",
+      "id": "0901"
+    },
+    {
+      "storeImg": "/images/hongkong-store.jpg",
+      "storeTitle": "RAZERSTORE HONG KONG'",
+      "storeText": "Causeway Bay Shops A & D on G/F, No. 1 Cannon Street Causeway Bay, Hong Kong SAR",
+      "storeLocationLatitude": 22.280393,
+      "storeLocationLongitude": 114.183984,
+      "storeCountry": "Hong Kong",
+      "id": "505b"
+    },
+    {
+      "storeImg": "/images/taiwan-store.jpg",
+      "storeTitle": "RAZERSTORE TAIPEI",
+      "storeText": "Syntrend Creative Park RazerStore Taipei, 207-2, 2F. No. 2, Section 3, Civic Blvd Zhongshan District, Taipei City 104",
+      "storeLocationLatitude": 25.045368,
+      "storeLocationLongitude": 121.531404,
+      "storeCountry": "Taiwan",
+      "id": "8c01"
+    }
+  ],
+  "storesCountries": [
+    {
+      "value": "USA",
+      "label": "USA",
+      "latitude": 40.290128,
+      "longitude": -101.312934,
+      "zoom": 4,
+      "id": "724e"
+    },
+    {
+      "value": "United Kingdom",
+      "label": "United Kingdom",
+      "latitude": 51.954081,
+      "longitude": -1.101042,
+      "zoom": 6,
+      "id": "b83d"
+    },
+    {
+      "value": "Singapore",
+      "label": "Singapore",
+      "latitude": 1.372501,
+      "longitude": 103.801277,
+      "zoom": 11,
+      "id": "cd7a"
+    },
+    {
+      "value": "Hong Kong",
+      "label": "Hong Kong",
+      "latitude": 22.358665,
+      "longitude": 114.181351,
+      "zoom": 10,
+      "id": "2c4a"
+    },
+    {
+      "value": "Taiwan",
+      "label": "Taiwan",
+      "latitude": 23.720006,
+      "longitude": 120.96932,
+      "zoom": 7,
+      "id": "dd1d"
+    }
+  ],
+  "laptops": [
+    {
+      "deviceType": "LAPTOPS",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/laptop-1.png",
+      "deviceMainGallery": ["/images/main-bag-img-1.png", "/images/main-bag-img-1.png", "/images/main-bag-img-1.png","/images/main-bag-img-1.png","/images/main-bag-img-1.png","/images/main-bag-img-1.png"],
+      "deviceThumbsGallery": ["/images/bag-img-1.png", "/images/bag-img-2.png", "/images/bag-img-3.png", "/images/bag-img-4.png", "/images/bag-img-5.png"],
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "147",
+      "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
+      "deviceActualPrice": 4299.99,
+      "deviceOldPrice": "",
+      "id": "c909"
+    },
+    {
+      "deviceType": "LAPTOPS",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/laptop-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "146",
+      "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
+      "deviceActualPrice": 4299.99,
+      "deviceOldPrice": "",
+      "id": "4744"
+    },
+    {
+      "deviceType": "LAPTOPS",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/laptop-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "146",
+      "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
+      "deviceActualPrice": 4299.99,
+      "deviceOldPrice": "",
+      "id": "052f"
+    },
+    {
+      "deviceType": "LAPTOPS",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/laptop-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "146",
+      "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
+      "deviceActualPrice": 4299.99,
+      "deviceOldPrice": "",
+      "id": "15cd"
+    },
+    {
+      "deviceType": "LAPTOPS",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/laptop-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "146",
+      "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
+      "deviceActualPrice": 4299.99,
+      "deviceOldPrice": "",
+      "id": "f10a"
+    },
+    {
+      "deviceType": "LAPTOPS",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/laptop-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "146",
+      "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
+      "deviceActualPrice": 4299.99,
+      "deviceOldPrice": "",
+      "id": "84e5"
+    },
+    {
+      "deviceType": "LAPTOPS",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/laptop-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "146",
+      "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
+      "deviceActualPrice": 4299.99,
+      "deviceOldPrice": "",
+      "id": "1d0f"
+    },
+    {
+      "deviceType": "LAPTOPS",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/laptop-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "146",
+      "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
+      "deviceActualPrice": 4299.99,
+      "deviceOldPrice": "",
+      "id": "572c"
+    },
+    {
+      "deviceType": "LAPTOPS",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/laptop-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "146",
+      "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
+      "deviceActualPrice": 4299.99,
+      "deviceOldPrice": "",
+      "id": "a79c"
+    },
+    {
+      "deviceType": "LAPTOPS",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/laptop-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "146",
+      "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
+      "deviceActualPrice": 4299.99,
+      "deviceOldPrice": "",
+      "id": "bf8a"
+    }
+  ],
+  "keyboards": [
+    {
+      "deviceType": "KEYBOARDS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/keyboard-1.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "177",
+      "deviceTitle": "Razer DeathStalker V2 Pro - Linear Optical Switch - US",
+      "deviceActualPrice": 249.99,
+      "deviceOldPrice": "",
+      "size": "Full Size",
+      "switchesKeys": "Linear Optical (Red)",
+      "productFamily": "Razer Turret",
+      "deviceId": 1,
+      "id": "a173"
+    },
+    {
+      "deviceType": "KEYBOARDS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/keyboard-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "411",
+      "deviceTitle": "Razer Huntsman V2 Tenkeyless - Linear Optical Switch - US - ESL Edition",
+      "deviceActualPrice": 179.99,
+      "deviceOldPrice": "",
+      "size": "Full Size",
+      "switchesKeys": "Clicky Optical (Purple)",
+      "productFamily": "Razer Huntsman",
+      "deviceId": 2,
+      "id": "bab0"
+    },
+    {
+      "deviceType": "KEYBOARDS",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/keyboard-3.png",
+      "deviceRating": "4.1",
+      "deviceReviewsCount": "56",
+      "deviceTitle": "Razer x *A Bathing Ape® BlackWidow V3 - Green Switch - US",
+      "deviceActualPrice": 199.99,
+      "deviceOldPrice": "",
+      "size": "Full Size",
+      "switchesKeys": "Clicky Optical (Purple)",
+      "productFamily": "Razer Huntsman",
+      "deviceId": 3,
+      "id": "1c9b"
+    },
+    {
+      "deviceType": "KEYBOARDS",
+      "deviceAddInfo": "13% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/keyboard-4.png",
+      "deviceRating": "4.7",
+      "deviceReviewsCount": "390",
+      "deviceTitle": "Razer BlackWidow V3 Pro",
+      "deviceActualPrice": 199.99,
+      "deviceOldPrice": "229.99",
+      "size": "Full Size",
+      "switchesKeys": "Clicky Optical (Purple)",
+      "productFamily": "Razer Huntsman",
+      "deviceId": 4,
+      "id": "dd3a"
+    },
+    {
+      "deviceType": "KEYBOARDS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/keyboard-1.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "177",
+      "deviceTitle": "Razer DeathStalker V2 Pro - Linear Optical Switch - US",
+      "deviceActualPrice": 249.99,
+      "deviceOldPrice": "",
+      "size": "Full Size",
+      "switchesKeys": "Clicky Optical (Purple)",
+      "productFamily": "Razer Huntsman",
+      "deviceId": 5,
+      "id": "2cd5"
+    },
+    {
+      "deviceType": "KEYBOARDS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/keyboard-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "411",
+      "deviceTitle": "Razer Huntsman V2 Tenkeyless - Linear Optical Switch - US - ESL Edition",
+      "deviceActualPrice": 179.99,
+      "deviceOldPrice": "",
+      "size": "Full Size",
+      "switchesKeys": "Clicky Optical (Purple)",
+      "productFamily": "Razer Huntsman",
+      "deviceId": 6,
+      "id": "9a1a"
+    },
+    {
+      "deviceType": "KEYBOARDS",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/keyboard-3.png",
+      "deviceRating": "4.1",
+      "deviceReviewsCount": "56",
+      "deviceTitle": "Razer x *A Bathing Ape® BlackWidow V3 - Green Switch - US",
+      "deviceActualPrice": 199.99,
+      "deviceOldPrice": "",
+      "size": "Full Size",
+      "switchesKeys": "Clicky Optical (Purple)",
+      "productFamily": "Razer Huntsman",
+      "deviceId": 7,
+      "id": "3578"
+    },
+    {
+      "deviceType": "KEYBOARDS",
+      "deviceAddInfo": "13% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/keyboard-4.png",
+      "deviceRating": "4.7",
+      "deviceReviewsCount": "390",
+      "deviceTitle": "Razer BlackWidow V3 Pro",
+      "deviceActualPrice": 199.99,
+      "deviceOldPrice": "229.99",
+      "size": "Full Size",
+      "switchesKeys": "Clicky Optical (Purple)",
+      "productFamily": "Razer Huntsman",
+      "deviceId": 8,
+      "id": "bba3"
+    },
+    {
+      "deviceType": "KEYBOARDS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/keyboard-1.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "177",
+      "deviceTitle": "Razer DeathStalker V2 Pro - Linear Optical Switch - US",
+      "deviceActualPrice": 249.99,
+      "deviceOldPrice": "",
+      "size": "Full Size",
+      "switchesKeys": "Clicky Optical (Purple)",
+      "productFamily": "Razer Huntsman",
+      "deviceId": 9,
+      "id": "f720"
+    },
+    {
+      "deviceType": "KEYBOARDS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/keyboard-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "411",
+      "deviceTitle": "Razer Huntsman V2 Tenkeyless - Linear Optical Switch - US - ESL Edition",
+      "deviceActualPrice": 179.99,
+      "deviceOldPrice": "",
+      "size": "Full Size",
+      "switchesKeys": "Linear Optical (Red)",
+      "productFamily": "Razer Huntsman",
+      "deviceId": 10,
+      "id": "32bb"
+    }
+  ],
+  "audio": [
+    {
+      "deviceType": "AUDIO",
+      "deviceAddInfo": "NEW",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": true,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/audio-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "57",
+      "deviceTitle": "Razer Leviathan V2 X",
+      "deviceActualPrice": 99.99,
+      "deviceOldPrice": "",
+      "id": "542e"
+    },
+    {
+      "deviceType": "AUDIO",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/audio-2.png",
+      "deviceRating": "4.1",
+      "deviceReviewsCount": "2671",
+      "deviceTitle": "Razer Nommo Chroma",
+      "deviceActualPrice": 169.99,
+      "deviceOldPrice": "",
+      "id": "e7d9"
+    },
+    {
+      "deviceType": "AUDIO",
+      "deviceAddInfo": "25% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/audio-3.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "556",
+      "deviceTitle": "Razer BlackShark V2 Pro - Six Siege Special Edition",
+      "deviceActualPrice": 149.99,
+      "deviceOldPrice": "199.99",
+      "id": "a56e"
+    },
+    {
+      "deviceType": "AUDIO",
+      "deviceAddInfo": "50% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/audio-4.png",
+      "deviceRating": "4.6",
+      "deviceReviewsCount": "10071",
+      "deviceTitle": "Razer Kraken Ultimate",
+      "deviceActualPrice": 64.99,
+      "deviceOldPrice": "129.99",
+      "id": "ff59"
+    },
+    {
+      "deviceType": "AUDIO",
+      "deviceAddInfo": "NEW",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": true,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/audio-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "57",
+      "deviceTitle": "Razer Leviathan V2 X",
+      "deviceActualPrice": 99.99,
+      "deviceOldPrice": "",
+      "id": "90a4"
+    },
+    {
+      "deviceType": "AUDIO",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/audio-2.png",
+      "deviceRating": "4.1",
+      "deviceReviewsCount": "2671",
+      "deviceTitle": "Razer Nommo Chroma",
+      "deviceActualPrice": 169.99,
+      "deviceOldPrice": "",
+      "id": "c50e"
+    },
+    {
+      "deviceType": "AUDIO",
+      "deviceAddInfo": "25% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/audio-3.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "556",
+      "deviceTitle": "Razer BlackShark V2 Pro - Six Siege Special Edition",
+      "deviceActualPrice": 149.99,
+      "deviceOldPrice": "199.99",
+      "id": "26ed"
+    },
+    {
+      "deviceType": "AUDIO",
+      "deviceAddInfo": "50% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/audio-4.png",
+      "deviceRating": "4.6",
+      "deviceReviewsCount": "10071",
+      "deviceTitle": "Razer Kraken Ultimate",
+      "deviceActualPrice": 64.99,
+      "deviceOldPrice": "129.99",
+      "id": "1fa9"
+    },
+    {
+      "deviceType": "AUDIO",
+      "deviceAddInfo": "NEW",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": true,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/audio-1.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "57",
+      "deviceTitle": "Razer Leviathan V2 X",
+      "deviceActualPrice": 99.99,
+      "deviceOldPrice": "",
+      "id": "4a0f"
+    },
+    {
+      "deviceType": "AUDIO",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/audio-2.png",
+      "deviceRating": "4.1",
+      "deviceReviewsCount": "2671",
+      "deviceTitle": "Razer Nommo Chroma",
+      "deviceActualPrice": 169.99,
+      "deviceOldPrice": "",
+      "id": "53e0"
+    }
+  ],
+  "mice": [
+    {
+      "deviceType": "MICE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mouse-1.png",
+      "deviceRating": "4.3",
+      "deviceReviewsCount": "2013",
+      "deviceTitle": "Razer Basilisk V3",
+      "deviceActualPrice": 69.99,
+      "deviceOldPrice": "",
+      "id": "14a9"
+    },
+    {
+      "deviceType": "MICE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mouse-2.png",
+      "deviceRating": "5.0",
+      "deviceReviewsCount": "113",
+      "deviceTitle": "Razer DeathAdder V2 Pro - Genshin Impact Edition",
+      "deviceActualPrice": 139.99,
+      "deviceOldPrice": "",
+      "id": "45df"
+    },
+    {
+      "deviceType": "MICE",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mouse-3.png",
+      "deviceRating": "4.8",
+      "deviceReviewsCount": "1389",
+      "deviceTitle": "Razer Naga Left-Handed Edition",
+      "deviceActualPrice": 99.99,
+      "deviceOldPrice": "",
+      "id": "c616"
+    },
+    {
+      "deviceType": "MICE",
+      "deviceAddInfo": "33% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mouse-4.png",
+      "deviceRating": "4.4",
+      "deviceReviewsCount": "109",
+      "deviceTitle": "Razer Viper Ultimate with Charging Dock - Black",
+      "deviceActualPrice": 99.99,
+      "deviceOldPrice": "149.99",
+      "id": "eeda"
+    },
+    {
+      "deviceType": "MICE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mouse-1.png",
+      "deviceRating": "4.3",
+      "deviceReviewsCount": "2013",
+      "deviceTitle": "Razer Basilisk V3",
+      "deviceActualPrice": 69.99,
+      "deviceOldPrice": "",
+      "id": "83b7"
+    },
+    {
+      "deviceType": "MICE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mouse-2.png",
+      "deviceRating": "5.0",
+      "deviceReviewsCount": "113",
+      "deviceTitle": "Razer DeathAdder V2 Pro - Genshin Impact Edition",
+      "deviceActualPrice": 139.99,
+      "deviceOldPrice": "",
+      "id": "a340"
+    },
+    {
+      "deviceType": "MICE",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mouse-3.png",
+      "deviceGalery": ["/images/mouse-3.png", "/images/mouse-3.png", "/images/mouse-3.png", "/images/mouse-3.png", "/images/mouse-3.png", "/images/mouse-3.png"],
+      "deviceRating": "4.8",
+      "deviceReviewsCount": "1389",
+      "deviceTitle": "Razer Naga Left-Handed Edition",
+      "deviceActualPrice": 99.99,
+      "deviceOldPrice": "",
+      "id": "f221"
+    },
+    {
+      "deviceType": "MICE",
+      "deviceAddInfo": "33% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mouse-4.png",
+      "deviceRating": "4.4",
+      "deviceReviewsCount": "109",
+      "deviceTitle": "Razer Viper Ultimate with Charging Dock - Black",
+      "deviceActualPrice": 99.99,
+      "deviceOldPrice": "149.99",
+      "id": "aa77"
+    },
+    {
+      "deviceType": "MICE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mouse-1.png",
+      "deviceRating": "4.3",
+      "deviceReviewsCount": "2013",
+      "deviceTitle": "Razer Basilisk V3",
+      "deviceActualPrice": 69.99,
+      "deviceOldPrice": "",
+      "id": "f270"
+    },
+    {
+      "deviceType": "MICE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mouse-2.png",
+      "deviceRating": "5.0",
+      "deviceReviewsCount": "113",
+      "deviceTitle": "Razer DeathAdder V2 Pro - Genshin Impact Edition",
+      "deviceActualPrice": 139.99,
+      "deviceOldPrice": "",
+      "id": "5dd0"
+    }
+  ],
+  "components": [
+    {
+      "deviceType": "COMPONENTS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/components-1.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "1019",
+      "deviceTitle": "Razer Hanbo Chroma RGB AIO Liquid Cooler 360MM (aRGB Pump Cap)",
+      "deviceActualPrice": 359.99,
+      "deviceOldPrice": "",
+      "id": "43cf"
+    },
+    {
+      "deviceType": "COMPONENTS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/components-2.png",
+      "deviceRating": "4.1",
+      "deviceReviewsCount": "5050",
+      "deviceTitle": "Razer Tomahawk ATX",
+      "deviceActualPrice": 249.99,
+      "deviceOldPrice": "",
+      "id": "f6be"
+    },
+    {
+      "deviceType": "COMPONENTS",
+      "deviceAddInfo": "NEW",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": true,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/components-3.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "856",
+      "deviceTitle": "Razer Katana Chroma",
+      "deviceActualPrice": 349.99,
+      "deviceOldPrice": "",
+      "id": "c674"
+    },
+    {
+      "deviceType": "COMPONENTS",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/components-4.png",
+      "deviceRating": "4.7",
+      "deviceReviewsCount": "64",
+      "deviceTitle": "Razer Thunderbolt 4 Cable - 0.8 m - White",
+      "deviceActualPrice": 59.99,
+      "deviceOldPrice": "",
+      "id": "0ba4"
+    },
+    {
+      "deviceType": "COMPONENTS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/components-1.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "1019",
+      "deviceTitle": "Razer Hanbo Chroma RGB AIO Liquid Cooler 360MM (aRGB Pump Cap)",
+      "deviceActualPrice": 359.99,
+      "deviceOldPrice": "",
+      "id": "efdd"
+    },
+    {
+      "deviceType": "COMPONENTS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/components-2.png",
+      "deviceRating": "4.1",
+      "deviceReviewsCount": "5050",
+      "deviceTitle": "Razer Tomahawk ATX",
+      "deviceActualPrice": 249.99,
+      "deviceOldPrice": "",
+      "id": "7445"
+    },
+    {
+      "deviceType": "COMPONENTS",
+      "deviceAddInfo": "NEW",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": true,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/components-3.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "856",
+      "deviceTitle": "Razer Katana Chroma",
+      "deviceActualPrice": 349.99,
+      "deviceOldPrice": "",
+      "id": "f454"
+    },
+    {
+      "deviceType": "COMPONENTS",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/components-4.png",
+      "deviceRating": "4.7",
+      "deviceReviewsCount": "64",
+      "deviceTitle": "Razer Thunderbolt 4 Cable - 0.8 m - White",
+      "deviceActualPrice": 59.99,
+      "deviceOldPrice": "",
+      "id": "8bbb"
+    },
+    {
+      "deviceType": "COMPONENTS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/components-1.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "1019",
+      "deviceTitle": "Razer Hanbo Chroma RGB AIO Liquid Cooler 360MM (aRGB Pump Cap)",
+      "deviceActualPrice": 359.99,
+      "deviceOldPrice": "",
+      "id": "ebb6"
+    },
+    {
+      "deviceType": "COMPONENTS",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/components-2.png",
+      "deviceRating": "4.1",
+      "deviceReviewsCount": "5050",
+      "deviceTitle": "Razer Tomahawk ATX",
+      "deviceActualPrice": 249.99,
+      "deviceOldPrice": "",
+      "id": "10e3"
+    }
+  ],
+  "chairs": [
+    {
+      "deviceType": "CHAIR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/chair-1.png",
+      "deviceRating": "5.0",
+      "deviceReviewsCount": "15271",
+      "deviceTitle": "Razer Enki Pro - Koenigsegg Edition",
+      "deviceActualPrice": 1299.99,
+      "deviceOldPrice": "",
+      "id": "8829"
+    },
+    {
+      "deviceType": "CHAIR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/chair-2.png",
+      "deviceRating": "4.2",
+      "deviceReviewsCount": "595",
+      "deviceTitle": "Razer Iskur X - Hello Kitty and Friends Edition",
+      "deviceActualPrice": 499.99,
+      "deviceOldPrice": "",
+      "id": "65ef"
+    },
+    {
+      "deviceType": "CHAIR",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/chair-3.png",
+      "deviceRating": "4.6",
+      "deviceReviewsCount": "550",
+      "deviceTitle": "Razer Enki - Green",
+      "deviceActualPrice": 399.99,
+      "deviceOldPrice": "",
+      "id": "2c19"
+    },
+    {
+      "deviceType": "ACCESSORIES",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/chair-4.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "778",
+      "deviceTitle": "Team Razer Floor Rug - Black / Green",
+      "deviceActualPrice": 79.99,
+      "deviceOldPrice": "",
+      "id": "5602"
+    },
+    {
+      "deviceType": "CHAIR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/chair-1.png",
+      "deviceRating": "5.0",
+      "deviceReviewsCount": "15271",
+      "deviceTitle": "Razer Enki Pro - Koenigsegg Edition",
+      "deviceActualPrice": 1299.99,
+      "deviceOldPrice": "",
+      "id": "0367"
+    },
+    {
+      "deviceType": "CHAIR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/chair-2.png",
+      "deviceRating": "4.2",
+      "deviceReviewsCount": "595",
+      "deviceTitle": "Razer Iskur X - Hello Kitty and Friends Edition",
+      "deviceActualPrice": 499.99,
+      "deviceOldPrice": "",
+      "id": "db6c"
+    },
+    {
+      "deviceType": "CHAIR",
+      "deviceAddInfo": "GIFT WITH PURCHASE",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": true,
+      "deviceImg": "/images/chair-3.png",
+      "deviceRating": "4.6",
+      "deviceReviewsCount": "550",
+      "deviceTitle": "Razer Enki - Green",
+      "deviceActualPrice": 399.99,
+      "deviceOldPrice": "",
+      "id": "5ee8"
+    },
+    {
+      "deviceType": "ACCESSORIES",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/chair-4.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "778",
+      "deviceTitle": "Team Razer Floor Rug - Black / Green",
+      "deviceActualPrice": 79.99,
+      "deviceOldPrice": "",
+      "id": "4ed4"
+    },
+    {
+      "deviceType": "CHAIR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/chair-1.png",
+      "deviceRating": "5.0",
+      "deviceReviewsCount": "15271",
+      "deviceTitle": "Razer Enki Pro - Koenigsegg Edition",
+      "deviceActualPrice": 1299.99,
+      "deviceOldPrice": "",
+      "id": "4eb3"
+    },
+    {
+      "deviceType": "CHAIR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/chair-2.png",
+      "deviceRating": "4.2",
+      "deviceReviewsCount": "595",
+      "deviceTitle": "Razer Iskur X - Hello Kitty and Friends Edition",
+      "deviceActualPrice": 499.99,
+      "deviceOldPrice": "",
+      "id": "fc92"
+    }
+  ],
+  "streaming": [
+    {
+      "deviceType": "STREAMING",
+      "deviceAddInfo": "30% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/streaming-1.png",
+      "deviceRating": "4.8",
+      "deviceReviewsCount": "515",
+      "deviceTitle": "Razer Kiyo",
+      "deviceActualPrice": 69.99,
+      "deviceOldPrice": "99.99",
+      "id": "57eb"
+    },
+    {
+      "deviceType": "STREAMING",
+      "deviceAddInfo": "20% 0FF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/streaming-2.png",
+      "deviceRating": "4.6",
+      "deviceReviewsCount": "1226",
+      "deviceTitle": "Razer Kraken Kitty",
+      "deviceActualPrice": 119.99,
+      "deviceOldPrice": "149.99",
+      "id": "5f3f"
+    },
+    {
+      "deviceType": "STREAMING",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/streaming-3.png",
+      "deviceRating": "5.0",
+      "deviceReviewsCount": "15980",
+      "deviceTitle": "Razer Stream Controller",
+      "deviceActualPrice": 269.99,
+      "deviceOldPrice": "",
+      "id": "4301"
+    },
+    {
+      "deviceType": "STREAMING",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/streaming-4.png",
+      "deviceRating": "4.8",
+      "deviceReviewsCount": "12981",
+      "deviceTitle": "Razer Audio Mixer",
+      "deviceActualPrice": 249.99,
+      "deviceOldPrice": "",
+      "id": "a77d"
+    },
+    {
+      "deviceType": "STREAMING",
+      "deviceAddInfo": "30% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/streaming-1.png",
+      "deviceRating": "4.8",
+      "deviceReviewsCount": "515",
+      "deviceTitle": "Razer Kiyo",
+      "deviceActualPrice": 69.99,
+      "deviceOldPrice": "99.99",
+      "id": "6db3"
+    },
+    {
+      "deviceType": "STREAMING",
+      "deviceAddInfo": "20% 0FF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/streaming-2.png",
+      "deviceRating": "4.6",
+      "deviceReviewsCount": "1226",
+      "deviceTitle": "Razer Kraken Kitty",
+      "deviceActualPrice": 119.99,
+      "deviceOldPrice": "149.99",
+      "id": "c2be"
+    },
+    {
+      "deviceType": "STREAMING",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/streaming-3.png",
+      "deviceRating": "5.0",
+      "deviceReviewsCount": "15980",
+      "deviceTitle": "Razer Stream Controller",
+      "deviceActualPrice": 269.99,
+      "deviceOldPrice": "",
+      "id": "65e6"
+    },
+    {
+      "deviceType": "STREAMING",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/streaming-4.png",
+      "deviceRating": "4.8",
+      "deviceReviewsCount": "12981",
+      "deviceTitle": "Razer Audio Mixer",
+      "deviceActualPrice": 249.99,
+      "deviceOldPrice": "",
+      "id": "7393"
+    },
+    {
+      "deviceType": "STREAMING",
+      "deviceAddInfo": "30% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/streaming-1.png",
+      "deviceRating": "4.8",
+      "deviceReviewsCount": "515",
+      "deviceTitle": "Razer Kiyo",
+      "deviceActualPrice": 69.99,
+      "deviceOldPrice": "99.99",
+      "id": "1127"
+    },
+    {
+      "deviceType": "STREAMING",
+      "deviceAddInfo": "20% 0FF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/streaming-2.png",
+      "deviceRating": "4.6",
+      "deviceReviewsCount": "1226",
+      "deviceTitle": "Razer Kraken Kitty",
+      "deviceActualPrice": 119.99,
+      "deviceOldPrice": "149.99",
+      "id": "cbac"
+    }
+  ],
+  "console": [
+    {
+      "deviceType": "CONSOLE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/console-1.png",
+      "deviceRating": "4.1",
+      "deviceReviewsCount": "5537",
+      "deviceTitle": "Captain America Razer Wireless Controller & Quick Charging Stand for Xbox",
+      "deviceActualPrice": 179.99,
+      "deviceOldPrice": "",
+      "id": "8289"
+    },
+    {
+      "deviceType": "CONSOLE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/console-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "6149",
+      "deviceTitle": "Stormtrooper Razer Wireless Controller & Quick Charging Stand for Xbox",
+      "deviceActualPrice": 199.99,
+      "deviceOldPrice": "",
+      "id": "1718"
+    },
+    {
+      "deviceType": "CONSOLE",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/console-3.png",
+      "deviceRating": "4.6",
+      "deviceReviewsCount": "7893",
+      "deviceTitle": "Razer Quick Charging Stand for PS5™ - Purple",
+      "deviceActualPrice": 39.99,
+      "deviceOldPrice": "",
+      "id": "6cef"
+    },
+    {
+      "deviceType": "CONSOLE",
+      "deviceAddInfo": "13% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/console-4.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "15695",
+      "deviceTitle": "Razer Wolverine V2 Chroma",
+      "deviceActualPrice": 129.99,
+      "deviceOldPrice": "149.99",
+      "id": "b4fa"
+    },
+    {
+      "deviceType": "CONSOLE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/console-1.png",
+      "deviceRating": "4.1",
+      "deviceReviewsCount": "5537",
+      "deviceTitle": "Captain America Razer Wireless Controller & Quick Charging Stand for Xbox",
+      "deviceActualPrice": 179.99,
+      "deviceOldPrice": "",
+      "id": "a7d0"
+    },
+    {
+      "deviceType": "CONSOLE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/console-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "6149",
+      "deviceTitle": "Stormtrooper Razer Wireless Controller & Quick Charging Stand for Xbox",
+      "deviceActualPrice": 199.99,
+      "deviceOldPrice": "",
+      "id": "e909"
+    },
+    {
+      "deviceType": "CONSOLE",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/console-3.png",
+      "deviceRating": "4.6",
+      "deviceReviewsCount": "7893",
+      "deviceTitle": "Razer Quick Charging Stand for PS5™ - Purple",
+      "deviceActualPrice": 39.99,
+      "deviceOldPrice": "",
+      "id": "c04b"
+    },
+    {
+      "deviceType": "CONSOLE",
+      "deviceAddInfo": "13% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/console-4.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "15695",
+      "deviceTitle": "Razer Wolverine V2 Chroma",
+      "deviceActualPrice": 129.99,
+      "deviceOldPrice": "149.99",
+      "id": "63a6"
+    },
+    {
+      "deviceType": "CONSOLE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/console-1.png",
+      "deviceRating": "4.1",
+      "deviceReviewsCount": "5537",
+      "deviceTitle": "Captain America Razer Wireless Controller & Quick Charging Stand for Xbox",
+      "deviceActualPrice": 179.99,
+      "deviceOldPrice": "",
+      "id": "204f"
+    },
+    {
+      "deviceType": "CONSOLE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/console-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "6149",
+      "deviceTitle": "Stormtrooper Razer Wireless Controller & Quick Charging Stand for Xbox",
+      "deviceActualPrice": 199.99,
+      "deviceOldPrice": "",
+      "id": "1fe2"
+    }
+  ],
+  "mobile": [
+    {
+      "deviceType": "MOBILE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mobile-1.png",
+      "deviceRating": "4.7",
+      "deviceReviewsCount": "2399",
+      "deviceTitle": "Razer Kishi V2 for iPhone",
+      "deviceActualPrice": 99.99,
+      "deviceOldPrice": "",
+      "id": "36ae"
+    },
+    {
+      "deviceType": "MOBILE",
+      "deviceAddInfo": "45% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mobile-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "2978",
+      "deviceTitle": "Razer Kishi for Android (Xbox)",
+      "deviceActualPrice": 54.99,
+      "deviceOldPrice": "99.99",
+      "id": "3d84"
+    },
+    {
+      "deviceType": "MOBILE",
+      "deviceAddInfo": "35% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mobile-3.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "249",
+      "deviceTitle": "Razer Hammerhead True Wireless Pro",
+      "deviceActualPrice": 129.99,
+      "deviceOldPrice": "199.99",
+      "id": "3ae1"
+    },
+    {
+      "deviceType": "MOBILE",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mobile-4.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "9841",
+      "deviceTitle": "Razer Arctech Pro for iPhone 13 Pro",
+      "deviceActualPrice": 44.99,
+      "deviceOldPrice": "",
+      "id": "eb67"
+    },
+    {
+      "deviceType": "MOBILE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mobile-1.png",
+      "deviceRating": "4.7",
+      "deviceReviewsCount": "2399",
+      "deviceTitle": "Razer Kishi V2 for iPhone",
+      "deviceActualPrice": 99.99,
+      "deviceOldPrice": "",
+      "id": "bc26"
+    },
+    {
+      "deviceType": "MOBILE",
+      "deviceAddInfo": "45% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mobile-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "2978",
+      "deviceTitle": "Razer Kishi for Android (Xbox)",
+      "deviceActualPrice": 54.99,
+      "deviceOldPrice": "99.99",
+      "id": "4bcc"
+    },
+    {
+      "deviceType": "MOBILE",
+      "deviceAddInfo": "35% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mobile-3.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "249",
+      "deviceTitle": "Razer Hammerhead True Wireless Pro",
+      "deviceActualPrice": 129.99,
+      "deviceOldPrice": "199.99",
+      "id": "5328"
+    },
+    {
+      "deviceType": "MOBILE",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mobile-4.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "9841",
+      "deviceTitle": "Razer Arctech Pro for iPhone 13 Pro",
+      "deviceActualPrice": 44.99,
+      "deviceOldPrice": "",
+      "id": "ec00"
+    },
+    {
+      "deviceType": "MOBILE",
+      "deviceAddInfo": "",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mobile-1.png",
+      "deviceRating": "4.7",
+      "deviceReviewsCount": "2399",
+      "deviceTitle": "Razer Kishi V2 for iPhone",
+      "deviceActualPrice": 99.99,
+      "deviceOldPrice": "",
+      "id": "7b07"
+    },
+    {
+      "deviceType": "MOBILE",
+      "deviceAddInfo": "45% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/mobile-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "2978",
+      "deviceTitle": "Razer Kishi for Android (Xbox)",
+      "deviceActualPrice": "54.99",
+      "deviceOldPrice": 99.99,
+      "id": "e556"
+    }
+  ],
+  "gear": [
+    {
+      "deviceType": "GEAR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/gear-1.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "23657",
+      "deviceTitle": "Razer Sneki Snek Wall Light",
+      "deviceActualPrice": 79.99,
+      "deviceOldPrice": "",
+      "id": "19a2"
+    },
+    {
+      "deviceType": "GEAR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/gear-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "98712",
+      "deviceTitle": "Razer Sneki Snek Hoodie - L",
+      "deviceActualPrice": 49.99,
+      "deviceOldPrice": "",
+      "id": "3088"
+    },
+    {
+      "deviceType": "GEAR",
+      "deviceAddInfo": "NEW",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": true,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/gear-3.png",
+      "deviceRating": "4.7",
+      "deviceReviewsCount": "785",
+      "deviceTitle": "Razer Nomad Duffel Bag",
+      "deviceActualPrice": 69.99,
+      "deviceOldPrice": "",
+      "id": "fe3a"
+    },
+    {
+      "deviceType": "GEAR",
+      "deviceAddInfo": "50% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/gear-4.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "1236",
+      "deviceTitle": "Razer Rogue 13 Backpack V3 - Chromatic",
+      "deviceActualPrice": 59.99,
+      "deviceOldPrice": "",
+      "id": "7a62"
+    },
+    {
+      "deviceType": "GEAR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/gear-1.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "23657",
+      "deviceTitle": "Razer Sneki Snek Wall Light",
+      "deviceActualPrice": 79.99,
+      "deviceOldPrice": "",
+      "id": "c41a"
+    },
+    {
+      "deviceType": "GEAR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/gear-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "98712",
+      "deviceTitle": "Razer Sneki Snek Hoodie - L",
+      "deviceActualPrice": 49.99,
+      "deviceOldPrice": "",
+      "id": "402e"
+    },
+    {
+      "deviceType": "GEAR",
+      "deviceAddInfo": "NEW",
+      "devicePriceOff": false,
+      "deviceExclusive": false,
+      "deviceNew": true,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/gear-3.png",
+      "deviceRating": "4.7",
+      "deviceReviewsCount": "785",
+      "deviceTitle": "Razer Nomad Duffel Bag",
+      "deviceActualPrice": 69.99,
+      "deviceOldPrice": "",
+      "id": "df2a"
+    },
+    {
+      "deviceType": "GEAR",
+      "deviceAddInfo": "50% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/gear-4.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "1236",
+      "deviceTitle": "Razer Rogue 13 Backpack V3 - Chromatic",
+      "deviceActualPrice": 59.99,
+      "deviceOldPrice": "",
+      "id": "2677"
+    },
+    {
+      "deviceType": "GEAR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/gear-1.png",
+      "deviceRating": "4.9",
+      "deviceReviewsCount": "23657",
+      "deviceTitle": "Razer Sneki Snek Wall Light",
+      "deviceActualPrice": 79.99,
+      "deviceOldPrice": "",
+      "id": "719d"
+    },
+    {
+      "deviceType": "GEAR",
+      "deviceAddInfo": "EXCLUSIVES",
+      "devicePriceOff": false,
+      "deviceExclusive": true,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/gear-2.png",
+      "deviceRating": "4.5",
+      "deviceReviewsCount": "98712",
+      "deviceTitle": "Razer Sneki Snek Hoodie - L",
+      "deviceActualPrice": 49.99,
+      "deviceOldPrice": "",
+      "id": "be08"
+    }
+  ],
+  "filters": [
+    {
+      "category": "laptops",
+      "filt": [
+        {
+          "filterName": "Size",
+          "possibleValues": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "filterName": "Switches",
+          "possibleValues": [
+            "1",
+            "2"
+          ]
+        }
+      ],
+      "id": "fb6e"
+    },
+    {
+      "category": "keyboards",
+      "filt": [
+        {
+          "filterName": "Size",
+          "possibleValues": [
+            "Full Size",
+            "Tenkeyless"
+          ]
+        },
+        {
+          "filterName": "Switches/Keys",
+          "possibleValues": [
+            "Linear Optical (Red)",
+            "Clicky Optical (Purple)"
+          ]
+        },
+        {
+          "filterName": "Product Family",
+          "possibleValues": [
+            "Razer Huntsman",
+            "Razer BlackWidow",
+            "Razer DeathStalker V2",
+            "Razer Ornata",
+            "Razer Cynosa",
+            "Razer Turret"
+          ]
+        }
+      ],
+      "id": "3a30"
+    }
+  ],
+  "usersCart": []
+}

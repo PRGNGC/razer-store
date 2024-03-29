@@ -1,0 +1,138 @@
+@import '@/app/common.scss';
+
+.newsBlock{
+    background-color: $secondary;
+    padding: 110px 0 140px 0;
+    .container{
+        max-width: 1520px;
+        margin: 0 auto;
+        padding: 0 10px;
+        .newsBlockContent{
+            .smallSlider{
+                display: none;
+                margin-top: 20px;
+                column-gap: 20px;
+                overflow-x: scroll;
+                max-width: 100%;
+                scroll-snap-type: x proximity;
+                .newCard{
+                    scroll-snap-align: start;
+                    position: relative;
+                    padding: 20px;   
+                    border-radius: 20px;
+                    height: 260px;
+                    display: flex;  
+                    flex-direction: column;
+                    align-items: start;
+                    flex-shrink: 1;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    min-width: 260px;
+                    .newTitle{
+                        @include oswald-text(28, $white, 5, bold);
+                    }
+                    .cardLink{
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        width: 100%;
+                        height: 100%;
+                        z-index: 9999;
+                    }
+                    .newType{
+                        margin-bottom: auto;
+                        background-color: $white;
+                        border-radius: 40px;
+                        padding: 8px 20px;
+                        @include manrope-text(12, $secondary, 700);
+                    }
+                    .newText{
+                        @include manrope-text(14, $white, 400);
+                    }
+                }
+            }
+            .newsSlider{
+              display: flex !important;
+              justify-content: center;
+              column-gap: 25px;
+              margin-top: 25px;
+              .newCard{
+                    position: relative;
+                    padding: 20px;   
+                    border-radius: 20px;
+                    height: 260px;
+                    display: flex;  
+                    flex-direction: column;
+                    align-items: start;
+                    flex-shrink: 1;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    width: 100%;
+                    .newTitle{
+                        @include oswald-text(28, $white, 5, bold);
+                    }
+                    .cardLink{
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        width: 100%;
+                        height: 100%;
+                        z-index: 9999;
+                    }
+                    .newType{
+                        margin-bottom: auto;
+                        background-color: $white;
+                        border-radius: 40px;
+                        padding: 8px 20px;
+                        @include manrope-text(12, $secondary, 700);
+                    }
+                    .newText{
+                        @include manrope-text(14, $white, 400);
+                    }
+                }
+            }   
+        }
+    }
+}
+
+@media(max-width: 1024px){
+    .newsBlock{
+        padding: 20px 0 60px 0;
+        .container{
+            .newsBlockContent{
+                .newsSlider{
+                  .newCard{
+                        height: 240px;
+                        .newTitle{
+                            @include oswald-text(24, $white, 5, bold);
+                        }
+                    }   
+                }
+            }
+        }
+    }
+}
+
+@media(max-width: 768px){
+    .newsBlock{
+        .container{
+            .newsBlockContent{
+                .smallSlider{
+                    display: flex;
+                }
+                .newsSlider{
+                    display: none !important;
+                    .newCard{
+                        min-width: 320px;
+                        height: 260px;
+                        .newTitle{
+                            @include oswald-text(19, $white, 5, bold);
+                        }
+                    }
+                }   
+            }   
+        }
+    }
+}

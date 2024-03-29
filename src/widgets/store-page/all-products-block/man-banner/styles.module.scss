@@ -1,0 +1,69 @@
+@import '@/app/common.scss';
+
+.man{
+    // max-width: 1920px;
+    margin: 0 auto;
+    height: 400px;
+    .container{
+        background-image: url(/images/man-banner.png);
+        background-color: $primary;
+        background-position: center;
+        background-repeat: no-repeat;
+        display: flex;
+        // justify-content: center;
+        align-items: center;
+        max-width: 1520px;
+        margin: 0 auto;
+        height: 100%;
+        padding: 20px 40px;
+        border-radius: 20px;
+    }
+    .callToActionContent{
+        display: flex;
+        flex-direction: column;
+        // align-items: center;
+        // text-align: center;
+        // align-items: center;
+        row-gap: 20px;
+        max-width: 440px;
+        // flex-basis: 50%;
+        // width: fit-content;
+        .callToActionTitle{
+            @include oswald-text(44, $primary, 15, bold);
+        }
+        hr{
+            background-color: $primary;
+            width: 100%;
+            height: 1px;
+            border: none;
+            outline: none;
+        }
+        .callToActionText{
+            @include manrope-text(18, $white, 400);
+        }
+    }
+}
+
+@media(max-width: 1024px){
+        .callToAction{
+            padding: 45px 0;
+            .callToActionContent{
+                .callToActionTitle{
+                    @include oswald-text(36, $primary, 15, bold);
+                }
+            }
+        }
+}
+
+@media(max-width: 768px){
+        .callToAction{
+            .callToActionContent{
+                .callToActionTitle{
+                    @include oswald-text(28, $primary, 15, bold);
+                }
+                .callToActionText{
+                    @include oswald-text(20, $white, 15, bold);
+                }
+            }
+        }
+}
