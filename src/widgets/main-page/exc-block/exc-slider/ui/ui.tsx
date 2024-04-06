@@ -3,22 +3,23 @@ import { getExclusives } from '../api';
 import { SliderTemplate } from '@/features/slider/ui'
 import { ItemCard } from '@/entities/item-card';
 import { useQuery } from '@tanstack/react-query';
+import { ProductType } from '@/shared/types';
 
-interface ExclusivesType {
-  deviceId: string, 
-  deviceType: string,
-  deviceAddInfo: string,
-  devicePriceOff: boolean,
-  deviceExclusive: boolean,
-  deviceNew: boolean,
-  deviceOtherInfo: boolean,
-  deviceImg: string,
-  deviceRating: string,
-  deviceReviewsCount: string,
-  deviceTitle: string,
-  deviceActualPrice: string,
-  deviceOldPrice: string
-} 
+// interface ExclusivesType {
+//   deviceId: string, 
+//   deviceType: string,
+//   deviceAddInfo: string,
+//   devicePriceOff: boolean,
+//   deviceExclusive: boolean,
+//   deviceNew: boolean,
+//   deviceOtherInfo: boolean,
+//   deviceImg: string,
+//   deviceRating: string,
+//   deviceReviewsCount: string,
+//   deviceTitle: string,
+//   deviceActualPrice: string,
+//   deviceOldPrice: string
+// } 
 
 export function ExcSlider(){
   const {isLoading, isError, data, error} = useQuery({queryKey: ['exclusives'], queryFn: getExclusives})
@@ -62,7 +63,7 @@ export function ExcSlider(){
               ]
         }}>
             {
-                data?.map((i: ExclusivesType) => <ItemCard productRoute='' key={crypto.randomUUID()} deviceInfo={i}></ItemCard>)
+                data?.map((i: ProductType) => <ItemCard productRoute='' key={crypto.randomUUID()} deviceInfo={i}></ItemCard>)
             }
         </SliderTemplate>
     )

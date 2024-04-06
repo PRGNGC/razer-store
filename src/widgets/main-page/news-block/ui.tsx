@@ -6,9 +6,6 @@ export function NewsBlock(){
     return(
         <>
         <section className={styles.newsBlock}>
-            {
-                console.log("render")
-            }
             <div className={styles.container}>
                 <div className={styles.newsBlockContent}>
                     <NewsTitle></NewsTitle>

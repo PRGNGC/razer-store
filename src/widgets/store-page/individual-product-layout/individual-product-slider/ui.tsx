@@ -24,22 +24,20 @@ export function IndividualProductSlider({mainGallery, thumbsGallery}: Individual
 
     return(
     <div className="slider-container">
-      <Slider asNavFor={nav2} ref={slider => (sliderRef1 = slider)}>
+      <Slider asNavFor={nav2} ref={(slider: any) => (sliderRef1 = slider)}>
         {
-            mainGallery.map(img => {
+            mainGallery?.map(img => {
                 return(
-                    <>
-                        <div style={{marginTop: '25px'}}>
-                            <Image src={img} alt='image' width={1520} height={600}/>
-                        </div>
-                    </>
+                    <div key={crypto.randomUUID()} style={{marginTop: '25px'}}>
+                        <Image src={img} alt='image' width={1520} height={600}/>
+                    </div>
                 )
             })
         }
       </Slider>
       <Slider
         asNavFor={nav1}
-        ref={slider => (sliderRef2 = slider)}
+        ref={(slider: any) => (sliderRef2 = slider)}
         slidesToShow={3}
         swipeToSlide={true}
         focusOnSelect={true}
@@ -47,11 +45,9 @@ export function IndividualProductSlider({mainGallery, thumbsGallery}: Individual
         {
             thumbsGallery?.map(img => {
                 return(
-                    <>
-                        <div style={{marginTop: '25px'}}>
-                            <Image src={img} alt='image' width={230} height={150}/>
-                        </div>
-                    </>
+                    <div key={crypto.randomUUID()} style={{marginTop: '25px'}}>
+                        <Image src={img} alt='image' width={230} height={150}/>
+                    </div>
                 )
             })
         }

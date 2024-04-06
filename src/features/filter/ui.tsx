@@ -1,34 +1,35 @@
 import styles from './styles.module.scss'
-import { getFilters, getAllCategoryProducts } from './api'
+import { getFilters } from './api'
 import { useQuery } from '@tanstack/react-query'
 import { useState } from 'react'
 import { useSearchParams } from 'next/navigation'
 import { useRouter } from 'next/navigation'
 import Image from 'next/image'
 
-function formString(filter){
-    let filterArr = filter.toLowerCase().split('')
-    let deviders = [' ', '/', '-'];
+// function formString(filter){
+//     let filterArr = filter.toLowerCase().split('')
+//     let deviders = [' ', '/', '-'];
 
-    for(let i = 0; i <= filterArr.length; i++){
-        if(deviders.includes(filterArr[i])) filterArr[i+1] = filterArr[i+1].toUpperCase()
-    }
+//     for(let i = 0; i <= filterArr.length; i++){
+//         if(deviders.includes(filterArr[i])) filterArr[i+1] = filterArr[i+1].toUpperCase()
+//     }
     
-    let newStr = filterArr.join('')
+//     let newStr = filterArr.join('')
    
-    for(let i = 0; i <= deviders.length; i++){
-        newStr = newStr.replace(deviders[i], '');
-    }
+//     for(let i = 0; i <= deviders.length; i++){
+//         newStr = newStr.replace(deviders[i], '');
+//     }
 
-    return newStr
-}
+//     return newStr
+// }
 
-export function Filter({ filters,  filtersSetter }){
-    const [selectedFilters, setSelectedFilters] = useState([]);
+
+// export function Filter({ filters,  filtersSetter }){
+export function Filter(){
+    const [selectedFilters, setSelectedFilters] = useState<{ key: string, value: string }[]>([]);
     const searchParams = useSearchParams();
     const router = useRouter();
-    const editableSearchParams = new URLSearchParams(searchParams.toString());
-    console.log("Just formed editable serach params - " + editableSearchParams);
+    const editableSearchParams = new URLSearchParams(searchParams?.toString());
 
     let cat = "keyboards"
 
@@ -55,15 +56,18 @@ export function Filter({ filters,  filtersSetter }){
                     selectedFilters.map(i => {
                         return(
                             <div key={crypto.randomUUID()} className={styles.selectedFilter}>
-                                <p className={styles.selectedFilterName}>{i}</p>
+                                <p className={styles.selectedFilterName}>{i.value}</p>
                                 <Image 
                                     src='/icons/green-cross.svg' 
                                     alt='cross'
                                     className={styles.deleteAppliedFilter} 
                                     width={24} 
                                     height={24}  
-                                    onClick={ () => { setSelectedFilters((prev) => prev.filter(j => j != i)) } }
-                                    
+                                    onClick={ () => {
+                                        editableSearchParams.delete(i.key, i.value);
+                                        router.push(`/store/keyboards?${editableSearchParams}`);
+                                        setSelectedFilters((prev) => prev.filter(j => j != i)) }
+                                    }                       
                                 />
                             </div>
                         )
@@ -74,28 +78,29 @@ export function Filter({ filters,  filtersSetter }){
 
             <div className={styles.filters}>
                 {
-                    data[0]?.filt.map(j => 
+                    data[0]?.filt.map((j: any) => 
                         {
                             return(
                                 <div key={crypto.randomUUID()} className={styles.filterCategory}>
                                     <p className={styles.filterCategoryName}>{j.filterName}</p>
                                     {
-                                        j.possibleValues.map(i => {
+                                        j.possibleValues.map((i: any) => {
                                             return(
                                                 <label key={crypto.randomUUID()} htmlFor={i} className={styles.filterCategoryOption}>
-                                                    <input type="checkbox" defaultChecked={selectedFilters.includes(i)} id={i} 
-                                                        onClick={() => setSelectedFilters((prev) => {
-                                                            if(!prev.includes(i)) { 
+                                                    <input type="checkbox" defaultChecked={!!selectedFilters.find((k) => k.value === i)} id={i} 
+                                                        onClick={() => {
+                                                            if(!(!!selectedFilters.find((k) => k.value === i))){
                                                                 editableSearchParams.append(j.filterName, i)
-                                                                console.log("Updated search params - " + editableSearchParams);
                                                                 router.push(`/store/keyboards?${editableSearchParams}`);
-                                                                return [...prev, i] 
+                                                                setSelectedFilters((prev) => [...prev, {key: j.filterName, value: i}]);
                                                             }
-                                                            if(prev.includes(i)) { 
-                                                                router.push(`/store/keyboards?${editableSearchParams.delete(j.filterName)}`);
-                                                                return prev.filter(j => j != i) 
+                                                            if(!!selectedFilters.find((k) => k.value === i)){
+                                                                editableSearchParams.delete(j.filterName, i)
+                                                                router.push(`/store/keyboards?${editableSearchParams}`);
+                                                                setSelectedFilters((prev) => prev.filter(j => j.value != i));
                                                             }
-                                                        })}
+                                                        }
+                                                    }
                                                     />
                                                     {i}
                                                 </label>

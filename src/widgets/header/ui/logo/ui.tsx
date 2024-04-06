@@ -7,7 +7,7 @@ import { useSelector, useDispatch } from 'react-redux'
 import { menuToggle } from '@/features/store/menu/menuSlice'
 
 export function CorpLogo(){
-    const menu = useSelector((state) => state.menuReducer.value);
+    const menu = useSelector((state: any) => state.menuReducer.value);
     const dispatch = useDispatch();
 
     return(

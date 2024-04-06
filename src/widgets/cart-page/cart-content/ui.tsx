@@ -5,24 +5,7 @@ import { getAllCartProducts, changeProductAmount } from './api'
 import { ItemCard } from "@/entities/item-card"
 import { Loader } from '@/shared/ui/loader'
 import { CartInfo } from '../cart-info'
-
-interface DeviceType {
-    id: string,
-    deviceId: string,
-    deviceType: string,
-    deviceAddInfo: string,
-    devicePriceOff: boolean,
-    deviceExclusive: boolean,
-    deviceNew: boolean,
-    deviceOtherInfo: boolean,
-    deviceImg: string,
-    deviceRating: string,
-    deviceReviewsCount: string,
-    deviceTitle: string,
-    deviceActualPrice: number,
-    deviceOldPrice: string,
-    deviceAmount: number
-}
+import { ProductType } from '@/shared/types'
 
 export function CartContent(){
     const {isLoading, isError, data, error} = useQuery({queryKey: ["cartproducts"], queryFn: getAllCartProducts})
@@ -45,7 +28,7 @@ export function CartContent(){
     }
 
     let productsCount = data.length;
-    let productsPrice = data.reduce((sum: number, cur: DeviceType) => sum + cur.deviceActualPrice * cur.deviceAmount, 0).toFixed(2);
+    let productsPrice = data.reduce((sum: number, cur: ProductType) => sum + cur.deviceActualPrice * cur.deviceAmount, 0).toFixed(2);
 
     return(
         <>
@@ -54,7 +37,7 @@ export function CartContent(){
             <div className={styles.cartContent}>
                 <div className={styles.container}>
                         {                 
-                            data.map((i: DeviceType) => {
+                            data.map((i: ProductType) => {
                                 return(
                                     <div key={crypto.randomUUID()} className={styles.product}>
                                         <ItemCard deviceInfo={i} productRoute=''></ItemCard>

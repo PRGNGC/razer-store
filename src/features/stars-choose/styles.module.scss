@@ -1,0 +1,17 @@
+@import '@/app/common.scss';
+
+.starsChooseContainer{
+    .star{
+        font-size: 28px;
+        cursor: pointer;
+        // &:hover{
+        //     color: yellow;
+        // }
+    }
+    .currentStar{
+        font-size: 28px;
+        cursor: pointer;
+        color: yellow;
+    }
+
+}

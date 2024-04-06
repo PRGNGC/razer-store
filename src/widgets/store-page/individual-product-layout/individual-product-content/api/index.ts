@@ -1,0 +1,1 @@
+export { getProduct } from './requests'

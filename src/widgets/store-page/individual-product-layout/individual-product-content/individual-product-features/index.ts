@@ -1,0 +1,1 @@
+export { IndividualProductFeatures } from './ui'

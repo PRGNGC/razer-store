@@ -1,0 +1,1 @@
+export { IndividualProductReview } from './ui'

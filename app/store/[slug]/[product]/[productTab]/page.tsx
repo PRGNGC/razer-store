@@ -12,6 +12,6 @@ interface ProductIdType{
 
 export default function ProductIt({params}: ProductIdType){
     return(
-        <IndividualProductContent tab={params.productTab}/>
+        <IndividualProductContent category={params.slug} id={params.product} tab={params.productTab}/>
     )
 }

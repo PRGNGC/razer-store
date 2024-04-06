@@ -648,13 +648,52 @@
       "deviceNew": false,
       "deviceOtherInfo": true,
       "deviceImg": "/images/laptop-1.png",
-      "deviceMainGallery": ["/images/main-bag-img-1.png", "/images/main-bag-img-1.png", "/images/main-bag-img-1.png","/images/main-bag-img-1.png","/images/main-bag-img-1.png","/images/main-bag-img-1.png"],
-      "deviceThumbsGallery": ["/images/bag-img-1.png", "/images/bag-img-2.png", "/images/bag-img-3.png", "/images/bag-img-4.png", "/images/bag-img-5.png"],
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
       "deviceRating": "4.5",
       "deviceReviewsCount": "147",
       "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
       "deviceActualPrice": 4299.99,
       "deviceOldPrice": "",
+      "deviceReviews": [
+        {
+          "reviewText": "dwqqwd",
+          "reviewAuthor": "user",
+          "reviewRate": 4,
+          "reviewDate": "2024-04-01T09:09:30.367Z"
+        },
+        {
+          "reviewText": "uykyk",
+          "reviewAuthor": "user",
+          "reviewRate": 3,
+          "reviewDate": "2024-04-01T08:45:26.725Z"
+        }
+      ],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      },
       "id": "c909"
     },
     {
@@ -670,7 +709,35 @@
       "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
       "deviceActualPrice": 4299.99,
       "deviceOldPrice": "",
-      "id": "4744"
+      "id": "4744",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "LAPTOPS",
@@ -685,7 +752,35 @@
       "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
       "deviceActualPrice": 4299.99,
       "deviceOldPrice": "",
-      "id": "052f"
+      "id": "052f",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "LAPTOPS",
@@ -700,7 +795,35 @@
       "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
       "deviceActualPrice": 4299.99,
       "deviceOldPrice": "",
-      "id": "15cd"
+      "id": "15cd",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "LAPTOPS",
@@ -715,7 +838,35 @@
       "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
       "deviceActualPrice": 4299.99,
       "deviceOldPrice": "",
-      "id": "f10a"
+      "id": "f10a",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "LAPTOPS",
@@ -730,7 +881,35 @@
       "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
       "deviceActualPrice": 4299.99,
       "deviceOldPrice": "",
-      "id": "84e5"
+      "id": "84e5",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "LAPTOPS",
@@ -745,7 +924,35 @@
       "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
       "deviceActualPrice": 4299.99,
       "deviceOldPrice": "",
-      "id": "1d0f"
+      "id": "1d0f",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "LAPTOPS",
@@ -760,7 +967,35 @@
       "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
       "deviceActualPrice": 4299.99,
       "deviceOldPrice": "",
-      "id": "572c"
+      "id": "572c",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "LAPTOPS",
@@ -775,7 +1010,35 @@
       "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
       "deviceActualPrice": 4299.99,
       "deviceOldPrice": "",
-      "id": "a79c"
+      "id": "a79c",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "LAPTOPS",
@@ -790,7 +1053,35 @@
       "deviceTitle": "Razer Blade 17 - 4K 144Hz - GeForce RTX 3080 Ti - Black",
       "deviceActualPrice": 4299.99,
       "deviceOldPrice": "",
-      "id": "bf8a"
+      "id": "bf8a",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     }
   ],
   "keyboards": [
@@ -811,7 +1102,35 @@
       "switchesKeys": "Linear Optical (Red)",
       "productFamily": "Razer Turret",
       "deviceId": 1,
-      "id": "a173"
+      "id": "a173",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "KEYBOARDS",
@@ -830,7 +1149,35 @@
       "switchesKeys": "Clicky Optical (Purple)",
       "productFamily": "Razer Huntsman",
       "deviceId": 2,
-      "id": "bab0"
+      "id": "bab0",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "KEYBOARDS",
@@ -849,7 +1196,35 @@
       "switchesKeys": "Clicky Optical (Purple)",
       "productFamily": "Razer Huntsman",
       "deviceId": 3,
-      "id": "1c9b"
+      "id": "1c9b",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "KEYBOARDS",
@@ -868,7 +1243,35 @@
       "switchesKeys": "Clicky Optical (Purple)",
       "productFamily": "Razer Huntsman",
       "deviceId": 4,
-      "id": "dd3a"
+      "id": "dd3a",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "KEYBOARDS",
@@ -887,7 +1290,35 @@
       "switchesKeys": "Clicky Optical (Purple)",
       "productFamily": "Razer Huntsman",
       "deviceId": 5,
-      "id": "2cd5"
+      "id": "2cd5",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "KEYBOARDS",
@@ -906,7 +1337,35 @@
       "switchesKeys": "Clicky Optical (Purple)",
       "productFamily": "Razer Huntsman",
       "deviceId": 6,
-      "id": "9a1a"
+      "id": "9a1a",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "KEYBOARDS",
@@ -925,7 +1384,35 @@
       "switchesKeys": "Clicky Optical (Purple)",
       "productFamily": "Razer Huntsman",
       "deviceId": 7,
-      "id": "3578"
+      "id": "3578",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "KEYBOARDS",
@@ -944,7 +1431,35 @@
       "switchesKeys": "Clicky Optical (Purple)",
       "productFamily": "Razer Huntsman",
       "deviceId": 8,
-      "id": "bba3"
+      "id": "bba3",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "KEYBOARDS",
@@ -963,7 +1478,35 @@
       "switchesKeys": "Clicky Optical (Purple)",
       "productFamily": "Razer Huntsman",
       "deviceId": 9,
-      "id": "f720"
+      "id": "f720",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "KEYBOARDS",
@@ -982,7 +1525,35 @@
       "switchesKeys": "Linear Optical (Red)",
       "productFamily": "Razer Huntsman",
       "deviceId": 10,
-      "id": "32bb"
+      "id": "32bb",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     }
   ],
   "audio": [
@@ -999,7 +1570,35 @@
       "deviceTitle": "Razer Leviathan V2 X",
       "deviceActualPrice": 99.99,
       "deviceOldPrice": "",
-      "id": "542e"
+      "id": "542e",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "AUDIO",
@@ -1014,7 +1613,35 @@
       "deviceTitle": "Razer Nommo Chroma",
       "deviceActualPrice": 169.99,
       "deviceOldPrice": "",
-      "id": "e7d9"
+      "id": "e7d9",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "AUDIO",
@@ -1029,7 +1656,35 @@
       "deviceTitle": "Razer BlackShark V2 Pro - Six Siege Special Edition",
       "deviceActualPrice": 149.99,
       "deviceOldPrice": "199.99",
-      "id": "a56e"
+      "id": "a56e",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "AUDIO",
@@ -1044,7 +1699,35 @@
       "deviceTitle": "Razer Kraken Ultimate",
       "deviceActualPrice": 64.99,
       "deviceOldPrice": "129.99",
-      "id": "ff59"
+      "id": "ff59",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "AUDIO",
@@ -1059,7 +1742,35 @@
       "deviceTitle": "Razer Leviathan V2 X",
       "deviceActualPrice": 99.99,
       "deviceOldPrice": "",
-      "id": "90a4"
+      "id": "90a4",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "AUDIO",
@@ -1074,7 +1785,35 @@
       "deviceTitle": "Razer Nommo Chroma",
       "deviceActualPrice": 169.99,
       "deviceOldPrice": "",
-      "id": "c50e"
+      "id": "c50e",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "AUDIO",
@@ -1089,7 +1828,35 @@
       "deviceTitle": "Razer BlackShark V2 Pro - Six Siege Special Edition",
       "deviceActualPrice": 149.99,
       "deviceOldPrice": "199.99",
-      "id": "26ed"
+      "id": "26ed",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "AUDIO",
@@ -1104,7 +1871,35 @@
       "deviceTitle": "Razer Kraken Ultimate",
       "deviceActualPrice": 64.99,
       "deviceOldPrice": "129.99",
-      "id": "1fa9"
+      "id": "1fa9",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "AUDIO",
@@ -1119,7 +1914,35 @@
       "deviceTitle": "Razer Leviathan V2 X",
       "deviceActualPrice": 99.99,
       "deviceOldPrice": "",
-      "id": "4a0f"
+      "id": "4a0f",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "AUDIO",
@@ -1134,7 +1957,35 @@
       "deviceTitle": "Razer Nommo Chroma",
       "deviceActualPrice": 169.99,
       "deviceOldPrice": "",
-      "id": "53e0"
+      "id": "53e0",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     }
   ],
   "mice": [
@@ -1151,7 +2002,35 @@
       "deviceTitle": "Razer Basilisk V3",
       "deviceActualPrice": 69.99,
       "deviceOldPrice": "",
-      "id": "14a9"
+      "id": "14a9",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MICE",
@@ -1166,7 +2045,35 @@
       "deviceTitle": "Razer DeathAdder V2 Pro - Genshin Impact Edition",
       "deviceActualPrice": 139.99,
       "deviceOldPrice": "",
-      "id": "45df"
+      "id": "45df",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MICE",
@@ -1181,7 +2088,35 @@
       "deviceTitle": "Razer Naga Left-Handed Edition",
       "deviceActualPrice": 99.99,
       "deviceOldPrice": "",
-      "id": "c616"
+      "id": "c616",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MICE",
@@ -1196,7 +2131,35 @@
       "deviceTitle": "Razer Viper Ultimate with Charging Dock - Black",
       "deviceActualPrice": 99.99,
       "deviceOldPrice": "149.99",
-      "id": "eeda"
+      "id": "eeda",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MICE",
@@ -1211,7 +2174,35 @@
       "deviceTitle": "Razer Basilisk V3",
       "deviceActualPrice": 69.99,
       "deviceOldPrice": "",
-      "id": "83b7"
+      "id": "83b7",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MICE",
@@ -1226,7 +2217,35 @@
       "deviceTitle": "Razer DeathAdder V2 Pro - Genshin Impact Edition",
       "deviceActualPrice": 139.99,
       "deviceOldPrice": "",
-      "id": "a340"
+      "id": "a340",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MICE",
@@ -1236,13 +2255,40 @@
       "deviceNew": false,
       "deviceOtherInfo": false,
       "deviceImg": "/images/mouse-3.png",
-      "deviceGalery": ["/images/mouse-3.png", "/images/mouse-3.png", "/images/mouse-3.png", "/images/mouse-3.png", "/images/mouse-3.png", "/images/mouse-3.png"],
       "deviceRating": "4.8",
       "deviceReviewsCount": "1389",
       "deviceTitle": "Razer Naga Left-Handed Edition",
       "deviceActualPrice": 99.99,
       "deviceOldPrice": "",
-      "id": "f221"
+      "id": "f221",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MICE",
@@ -1257,7 +2303,35 @@
       "deviceTitle": "Razer Viper Ultimate with Charging Dock - Black",
       "deviceActualPrice": 99.99,
       "deviceOldPrice": "149.99",
-      "id": "aa77"
+      "id": "aa77",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MICE",
@@ -1272,7 +2346,35 @@
       "deviceTitle": "Razer Basilisk V3",
       "deviceActualPrice": 69.99,
       "deviceOldPrice": "",
-      "id": "f270"
+      "id": "f270",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MICE",
@@ -1287,7 +2389,35 @@
       "deviceTitle": "Razer DeathAdder V2 Pro - Genshin Impact Edition",
       "deviceActualPrice": 139.99,
       "deviceOldPrice": "",
-      "id": "5dd0"
+      "id": "5dd0",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     }
   ],
   "components": [
@@ -1304,7 +2434,35 @@
       "deviceTitle": "Razer Hanbo Chroma RGB AIO Liquid Cooler 360MM (aRGB Pump Cap)",
       "deviceActualPrice": 359.99,
       "deviceOldPrice": "",
-      "id": "43cf"
+      "id": "43cf",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "COMPONENTS",
@@ -1319,7 +2477,35 @@
       "deviceTitle": "Razer Tomahawk ATX",
       "deviceActualPrice": 249.99,
       "deviceOldPrice": "",
-      "id": "f6be"
+      "id": "f6be",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "COMPONENTS",
@@ -1334,7 +2520,35 @@
       "deviceTitle": "Razer Katana Chroma",
       "deviceActualPrice": 349.99,
       "deviceOldPrice": "",
-      "id": "c674"
+      "id": "c674",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "COMPONENTS",
@@ -1349,7 +2563,35 @@
       "deviceTitle": "Razer Thunderbolt 4 Cable - 0.8 m - White",
       "deviceActualPrice": 59.99,
       "deviceOldPrice": "",
-      "id": "0ba4"
+      "id": "0ba4",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "COMPONENTS",
@@ -1364,7 +2606,35 @@
       "deviceTitle": "Razer Hanbo Chroma RGB AIO Liquid Cooler 360MM (aRGB Pump Cap)",
       "deviceActualPrice": 359.99,
       "deviceOldPrice": "",
-      "id": "efdd"
+      "id": "efdd",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "COMPONENTS",
@@ -1379,7 +2649,35 @@
       "deviceTitle": "Razer Tomahawk ATX",
       "deviceActualPrice": 249.99,
       "deviceOldPrice": "",
-      "id": "7445"
+      "id": "7445",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "COMPONENTS",
@@ -1394,7 +2692,35 @@
       "deviceTitle": "Razer Katana Chroma",
       "deviceActualPrice": 349.99,
       "deviceOldPrice": "",
-      "id": "f454"
+      "id": "f454",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "COMPONENTS",
@@ -1409,7 +2735,35 @@
       "deviceTitle": "Razer Thunderbolt 4 Cable - 0.8 m - White",
       "deviceActualPrice": 59.99,
       "deviceOldPrice": "",
-      "id": "8bbb"
+      "id": "8bbb",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "COMPONENTS",
@@ -1424,7 +2778,35 @@
       "deviceTitle": "Razer Hanbo Chroma RGB AIO Liquid Cooler 360MM (aRGB Pump Cap)",
       "deviceActualPrice": 359.99,
       "deviceOldPrice": "",
-      "id": "ebb6"
+      "id": "ebb6",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "COMPONENTS",
@@ -1439,7 +2821,35 @@
       "deviceTitle": "Razer Tomahawk ATX",
       "deviceActualPrice": 249.99,
       "deviceOldPrice": "",
-      "id": "10e3"
+      "id": "10e3",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     }
   ],
   "chairs": [
@@ -1456,7 +2866,35 @@
       "deviceTitle": "Razer Enki Pro - Koenigsegg Edition",
       "deviceActualPrice": 1299.99,
       "deviceOldPrice": "",
-      "id": "8829"
+      "id": "8829",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CHAIR",
@@ -1471,7 +2909,35 @@
       "deviceTitle": "Razer Iskur X - Hello Kitty and Friends Edition",
       "deviceActualPrice": 499.99,
       "deviceOldPrice": "",
-      "id": "65ef"
+      "id": "65ef",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CHAIR",
@@ -1486,7 +2952,35 @@
       "deviceTitle": "Razer Enki - Green",
       "deviceActualPrice": 399.99,
       "deviceOldPrice": "",
-      "id": "2c19"
+      "id": "2c19",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "ACCESSORIES",
@@ -1501,7 +2995,35 @@
       "deviceTitle": "Team Razer Floor Rug - Black / Green",
       "deviceActualPrice": 79.99,
       "deviceOldPrice": "",
-      "id": "5602"
+      "id": "5602",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CHAIR",
@@ -1516,7 +3038,35 @@
       "deviceTitle": "Razer Enki Pro - Koenigsegg Edition",
       "deviceActualPrice": 1299.99,
       "deviceOldPrice": "",
-      "id": "0367"
+      "id": "0367",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CHAIR",
@@ -1531,7 +3081,35 @@
       "deviceTitle": "Razer Iskur X - Hello Kitty and Friends Edition",
       "deviceActualPrice": 499.99,
       "deviceOldPrice": "",
-      "id": "db6c"
+      "id": "db6c",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CHAIR",
@@ -1546,7 +3124,35 @@
       "deviceTitle": "Razer Enki - Green",
       "deviceActualPrice": 399.99,
       "deviceOldPrice": "",
-      "id": "5ee8"
+      "id": "5ee8",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "ACCESSORIES",
@@ -1561,7 +3167,35 @@
       "deviceTitle": "Team Razer Floor Rug - Black / Green",
       "deviceActualPrice": 79.99,
       "deviceOldPrice": "",
-      "id": "4ed4"
+      "id": "4ed4",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CHAIR",
@@ -1576,7 +3210,35 @@
       "deviceTitle": "Razer Enki Pro - Koenigsegg Edition",
       "deviceActualPrice": 1299.99,
       "deviceOldPrice": "",
-      "id": "4eb3"
+      "id": "4eb3",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CHAIR",
@@ -1591,7 +3253,35 @@
       "deviceTitle": "Razer Iskur X - Hello Kitty and Friends Edition",
       "deviceActualPrice": 499.99,
       "deviceOldPrice": "",
-      "id": "fc92"
+      "id": "fc92",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     }
   ],
   "streaming": [
@@ -1608,7 +3298,35 @@
       "deviceTitle": "Razer Kiyo",
       "deviceActualPrice": 69.99,
       "deviceOldPrice": "99.99",
-      "id": "57eb"
+      "id": "57eb",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "STREAMING",
@@ -1623,7 +3341,35 @@
       "deviceTitle": "Razer Kraken Kitty",
       "deviceActualPrice": 119.99,
       "deviceOldPrice": "149.99",
-      "id": "5f3f"
+      "id": "5f3f",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "STREAMING",
@@ -1638,7 +3384,35 @@
       "deviceTitle": "Razer Stream Controller",
       "deviceActualPrice": 269.99,
       "deviceOldPrice": "",
-      "id": "4301"
+      "id": "4301",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "STREAMING",
@@ -1653,7 +3427,35 @@
       "deviceTitle": "Razer Audio Mixer",
       "deviceActualPrice": 249.99,
       "deviceOldPrice": "",
-      "id": "a77d"
+      "id": "a77d",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "STREAMING",
@@ -1668,7 +3470,35 @@
       "deviceTitle": "Razer Kiyo",
       "deviceActualPrice": 69.99,
       "deviceOldPrice": "99.99",
-      "id": "6db3"
+      "id": "6db3",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "STREAMING",
@@ -1683,7 +3513,35 @@
       "deviceTitle": "Razer Kraken Kitty",
       "deviceActualPrice": 119.99,
       "deviceOldPrice": "149.99",
-      "id": "c2be"
+      "id": "c2be",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "STREAMING",
@@ -1698,7 +3556,35 @@
       "deviceTitle": "Razer Stream Controller",
       "deviceActualPrice": 269.99,
       "deviceOldPrice": "",
-      "id": "65e6"
+      "id": "65e6",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "STREAMING",
@@ -1713,7 +3599,35 @@
       "deviceTitle": "Razer Audio Mixer",
       "deviceActualPrice": 249.99,
       "deviceOldPrice": "",
-      "id": "7393"
+      "id": "7393",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "STREAMING",
@@ -1728,7 +3642,35 @@
       "deviceTitle": "Razer Kiyo",
       "deviceActualPrice": 69.99,
       "deviceOldPrice": "99.99",
-      "id": "1127"
+      "id": "1127",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "STREAMING",
@@ -1743,7 +3685,35 @@
       "deviceTitle": "Razer Kraken Kitty",
       "deviceActualPrice": 119.99,
       "deviceOldPrice": "149.99",
-      "id": "cbac"
+      "id": "cbac",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     }
   ],
   "console": [
@@ -1760,7 +3730,35 @@
       "deviceTitle": "Captain America Razer Wireless Controller & Quick Charging Stand for Xbox",
       "deviceActualPrice": 179.99,
       "deviceOldPrice": "",
-      "id": "8289"
+      "id": "8289",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CONSOLE",
@@ -1775,7 +3773,35 @@
       "deviceTitle": "Stormtrooper Razer Wireless Controller & Quick Charging Stand for Xbox",
       "deviceActualPrice": 199.99,
       "deviceOldPrice": "",
-      "id": "1718"
+      "id": "1718",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CONSOLE",
@@ -1790,7 +3816,35 @@
       "deviceTitle": "Razer Quick Charging Stand for PS5™ - Purple",
       "deviceActualPrice": 39.99,
       "deviceOldPrice": "",
-      "id": "6cef"
+      "id": "6cef",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CONSOLE",
@@ -1805,7 +3859,35 @@
       "deviceTitle": "Razer Wolverine V2 Chroma",
       "deviceActualPrice": 129.99,
       "deviceOldPrice": "149.99",
-      "id": "b4fa"
+      "id": "b4fa",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CONSOLE",
@@ -1820,7 +3902,35 @@
       "deviceTitle": "Captain America Razer Wireless Controller & Quick Charging Stand for Xbox",
       "deviceActualPrice": 179.99,
       "deviceOldPrice": "",
-      "id": "a7d0"
+      "id": "a7d0",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CONSOLE",
@@ -1835,7 +3945,35 @@
       "deviceTitle": "Stormtrooper Razer Wireless Controller & Quick Charging Stand for Xbox",
       "deviceActualPrice": 199.99,
       "deviceOldPrice": "",
-      "id": "e909"
+      "id": "e909",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CONSOLE",
@@ -1850,7 +3988,35 @@
       "deviceTitle": "Razer Quick Charging Stand for PS5™ - Purple",
       "deviceActualPrice": 39.99,
       "deviceOldPrice": "",
-      "id": "c04b"
+      "id": "c04b",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CONSOLE",
@@ -1865,7 +4031,35 @@
       "deviceTitle": "Razer Wolverine V2 Chroma",
       "deviceActualPrice": 129.99,
       "deviceOldPrice": "149.99",
-      "id": "63a6"
+      "id": "63a6",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CONSOLE",
@@ -1880,7 +4074,35 @@
       "deviceTitle": "Captain America Razer Wireless Controller & Quick Charging Stand for Xbox",
       "deviceActualPrice": 179.99,
       "deviceOldPrice": "",
-      "id": "204f"
+      "id": "204f",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "CONSOLE",
@@ -1895,7 +4117,35 @@
       "deviceTitle": "Stormtrooper Razer Wireless Controller & Quick Charging Stand for Xbox",
       "deviceActualPrice": 199.99,
       "deviceOldPrice": "",
-      "id": "1fe2"
+      "id": "1fe2",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     }
   ],
   "mobile": [
@@ -1912,7 +4162,35 @@
       "deviceTitle": "Razer Kishi V2 for iPhone",
       "deviceActualPrice": 99.99,
       "deviceOldPrice": "",
-      "id": "36ae"
+      "id": "36ae",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MOBILE",
@@ -1927,7 +4205,35 @@
       "deviceTitle": "Razer Kishi for Android (Xbox)",
       "deviceActualPrice": 54.99,
       "deviceOldPrice": "99.99",
-      "id": "3d84"
+      "id": "3d84",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MOBILE",
@@ -1942,7 +4248,35 @@
       "deviceTitle": "Razer Hammerhead True Wireless Pro",
       "deviceActualPrice": 129.99,
       "deviceOldPrice": "199.99",
-      "id": "3ae1"
+      "id": "3ae1",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MOBILE",
@@ -1957,7 +4291,35 @@
       "deviceTitle": "Razer Arctech Pro for iPhone 13 Pro",
       "deviceActualPrice": 44.99,
       "deviceOldPrice": "",
-      "id": "eb67"
+      "id": "eb67",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MOBILE",
@@ -1972,7 +4334,35 @@
       "deviceTitle": "Razer Kishi V2 for iPhone",
       "deviceActualPrice": 99.99,
       "deviceOldPrice": "",
-      "id": "bc26"
+      "id": "bc26",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MOBILE",
@@ -1987,7 +4377,35 @@
       "deviceTitle": "Razer Kishi for Android (Xbox)",
       "deviceActualPrice": 54.99,
       "deviceOldPrice": "99.99",
-      "id": "4bcc"
+      "id": "4bcc",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MOBILE",
@@ -2002,7 +4420,35 @@
       "deviceTitle": "Razer Hammerhead True Wireless Pro",
       "deviceActualPrice": 129.99,
       "deviceOldPrice": "199.99",
-      "id": "5328"
+      "id": "5328",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MOBILE",
@@ -2017,7 +4463,35 @@
       "deviceTitle": "Razer Arctech Pro for iPhone 13 Pro",
       "deviceActualPrice": 44.99,
       "deviceOldPrice": "",
-      "id": "ec00"
+      "id": "ec00",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MOBILE",
@@ -2032,7 +4506,35 @@
       "deviceTitle": "Razer Kishi V2 for iPhone",
       "deviceActualPrice": 99.99,
       "deviceOldPrice": "",
-      "id": "7b07"
+      "id": "7b07",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "MOBILE",
@@ -2047,7 +4549,35 @@
       "deviceTitle": "Razer Kishi for Android (Xbox)",
       "deviceActualPrice": "54.99",
       "deviceOldPrice": 99.99,
-      "id": "e556"
+      "id": "e556",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     }
   ],
   "gear": [
@@ -2064,7 +4594,42 @@
       "deviceTitle": "Razer Sneki Snek Wall Light",
       "deviceActualPrice": 79.99,
       "deviceOldPrice": "",
-      "id": "19a2"
+      "id": "19a2",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [
+        {
+          "reviewText": "gear review\n",
+          "reviewAuthor": "user",
+          "reviewRate": 4,
+          "reviewDate": "2024-04-01T08:52:34.887Z"
+        }
+      ],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "GEAR",
@@ -2079,7 +4644,35 @@
       "deviceTitle": "Razer Sneki Snek Hoodie - L",
       "deviceActualPrice": 49.99,
       "deviceOldPrice": "",
-      "id": "3088"
+      "id": "3088",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "GEAR",
@@ -2094,7 +4687,35 @@
       "deviceTitle": "Razer Nomad Duffel Bag",
       "deviceActualPrice": 69.99,
       "deviceOldPrice": "",
-      "id": "fe3a"
+      "id": "fe3a",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "GEAR",
@@ -2109,7 +4730,35 @@
       "deviceTitle": "Razer Rogue 13 Backpack V3 - Chromatic",
       "deviceActualPrice": 59.99,
       "deviceOldPrice": "",
-      "id": "7a62"
+      "id": "7a62",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "GEAR",
@@ -2124,7 +4773,35 @@
       "deviceTitle": "Razer Sneki Snek Wall Light",
       "deviceActualPrice": 79.99,
       "deviceOldPrice": "",
-      "id": "c41a"
+      "id": "c41a",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "GEAR",
@@ -2139,7 +4816,35 @@
       "deviceTitle": "Razer Sneki Snek Hoodie - L",
       "deviceActualPrice": 49.99,
       "deviceOldPrice": "",
-      "id": "402e"
+      "id": "402e",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "GEAR",
@@ -2154,7 +4859,35 @@
       "deviceTitle": "Razer Nomad Duffel Bag",
       "deviceActualPrice": 69.99,
       "deviceOldPrice": "",
-      "id": "df2a"
+      "id": "df2a",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "GEAR",
@@ -2169,7 +4902,35 @@
       "deviceTitle": "Razer Rogue 13 Backpack V3 - Chromatic",
       "deviceActualPrice": 59.99,
       "deviceOldPrice": "",
-      "id": "2677"
+      "id": "2677",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "GEAR",
@@ -2184,7 +4945,35 @@
       "deviceTitle": "Razer Sneki Snek Wall Light",
       "deviceActualPrice": 79.99,
       "deviceOldPrice": "",
-      "id": "719d"
+      "id": "719d",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     },
     {
       "deviceType": "GEAR",
@@ -2199,13 +4988,41 @@
       "deviceTitle": "Razer Sneki Snek Hoodie - L",
       "deviceActualPrice": 49.99,
       "deviceOldPrice": "",
-      "id": "be08"
+      "id": "be08",
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      }
     }
   ],
   "filters": [
     {
       "category": "laptops",
-      "filt": [
+      "filt": [ 
         {
           "filterName": "Size",
           "possibleValues": [
@@ -2255,5 +5072,54 @@
       "id": "3a30"
     }
   ],
-  "usersCart": []
+  "usersCart": [
+    {
+      "id": "dd3a",
+      "deviceType": "KEYBOARDS",
+      "deviceAddInfo": "13% OFF",
+      "devicePriceOff": true,
+      "deviceExclusive": false,
+      "deviceNew": false,
+      "deviceOtherInfo": false,
+      "deviceImg": "/images/keyboard-4.png",
+      "deviceRating": "4.7",
+      "deviceReviewsCount": "390",
+      "deviceTitle": "Razer BlackWidow V3 Pro",
+      "deviceActualPrice": 199.99,
+      "deviceOldPrice": "229.99",
+      "size": "Full Size",
+      "switchesKeys": "Clicky Optical (Purple)",
+      "productFamily": "Razer Huntsman",
+      "deviceId": 4,
+      "deviceMainGallery": [
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png",
+        "/images/main-bag-img-1.png"
+      ],
+      "deviceThumbsGallery": [
+        "/images/bag-img-1.png",
+        "/images/bag-img-2.png",
+        "/images/bag-img-3.png",
+        "/images/bag-img-4.png",
+        "/images/bag-img-5.png"
+      ],
+      "deviceReviews": [],
+      "deviceFeatures": {
+        "features": [
+          "feature1",
+          "feature2",
+          "feature3"
+        ],
+        "values": [
+          "value1",
+          "value2",
+          "value3"
+        ]
+      },
+      "deviceAmount": 12
+    }
+  ]
 }

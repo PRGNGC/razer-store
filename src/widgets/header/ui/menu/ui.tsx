@@ -8,7 +8,7 @@ import { useDispatch, useSelector } from 'react-redux'
 import { menuToggle } from '@/features/store/menu/menuSlice'
 
 export function MenuBurger(){
-    const menu = useSelector((state) => state.menuReducer.value);
+    const menu = useSelector((state: any) => state.menuReducer.value);
     const dispatch = useDispatch();
 
     if(menu == true){

@@ -14,10 +14,12 @@ export function ProductsBlock({filters, category}){
     const params = useParams();
     const searchParams = useSearchParams();
     
+    const editableSearchParams = new URLSearchParams(searchParams.toString());
+    console.log('Filters in block - ' + editableSearchParams);
 
-    // const {isLoading, isError, data, error} = useQuery({queryKey: ['products', currentCategory, filters], queryFn: () => getAllCategoryProducts})
+    console.log(Array.from(searchParams.entries()));
+
     const { isLoading, isError, data, error } = useQuery({ queryKey: ['products', category, filters, page], queryFn: () => getAllCategoryProducts(category, filters, page)})
-    // const { isLoading, isError, data, error } = useQuery({ queryKey: ['products', category], queryFn: () => getAllCategoryProducts(category)})
 
     if(isLoading){
         return <p>Loading...</p>

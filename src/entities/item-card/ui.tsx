@@ -7,27 +7,10 @@ import star from '@/shared/ui/icon/assets/star.svg'
 import { useMutation, useQueryClient } from '@tanstack/react-query'
 import { addProductCart, deleteProductCart } from './api/requsts'
 import { useState } from 'react'
-
-interface DeviceType {
-    id: string,
-    deviceId: string,
-    deviceType: string,
-    deviceAddInfo: string,
-    devicePriceOff: boolean,
-    deviceExclusive: boolean,
-    deviceNew: boolean,
-    deviceOtherInfo: boolean,
-    deviceImg: string,
-    deviceRating: string,
-    deviceReviewsCount: string,
-    deviceTitle: string,
-    deviceActualPrice: number,
-    deviceOldPrice: string,
-    deviceAmount: number
-}
+import { ProductType, ReviewType } from '@/shared/types'
 
 interface ItemCardProps {
-    deviceInfo: DeviceType,
+    deviceInfo: ProductType,
     productRoute: string
 }
 
@@ -77,9 +60,11 @@ export function ItemCard({deviceInfo, productRoute}: ItemCardProps){
             </div>
             <div className={styles.deviceText}>
                 <div className={styles.deviceComments}>
-                    <p className={styles.deviceRating}>{deviceInfo.deviceRating}</p>
+                    <p className={styles.deviceRating}>{deviceInfo.deviceReviews?.reduce((sum: number, cur: ReviewType):number => sum + cur.reviewRate, 0) / deviceInfo.deviceReviews?.length}</p>
+                    {/* <p className={styles.deviceRating}>{deviceInfo.deviceRating}</p> */}
                     <Image src={star} alt='star'></Image>
-                    <p className={styles.deviceReviewsCount}>{deviceInfo.deviceReviewsCount}</p>
+                    <p className={styles.deviceReviewsCount}>{deviceInfo.deviceReviews?.length}</p>
+                    {/* <p className={styles.deviceReviewsCount}>{deviceInfo.deviceReviewsCount}</p> */}
                     <Link href='/'>reviews</Link>
                 </div>
                 <p className={styles.deviceDescription}>{deviceInfo.deviceTitle}</p>
